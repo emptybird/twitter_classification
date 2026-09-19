@@ -1,0 +1,14 @@
+# Not in this repo: every member already has these from Moodle.
+A2_2026_Released/
+output/requirement.pdf
+CSCI446_946_A2_Spr_2025_Marking_sheet.docx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store

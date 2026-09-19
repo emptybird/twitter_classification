@@ -1,0 +1,72 @@
+==========================================================================
+CSCI946 A2 - DATA PREPARATION
+==========================================================================
+
+[1/8 LOAD] ../A2_2026_Released/twitter_user_data.csv
+          20,050 rows x 26 columns
+
+[2/8 ROW FILTER]
+          removed 97 rows with profile_yn == 'no'
+          (verified: all of them have a missing gender, so no label is lost)
+          exact duplicate rows: 0
+          20,050 -> 19,953 rows
+
+[3/8 ACCOUNT IDENTITY]
+          distinct accounts           : 18,715
+          accounts with >1 row        : 791
+          rows belonging to those     : 2,029
+          largest account row count   : 30
+          link_color      varies within account: 0
+          sidebar_color   varies within account: 0
+          tweet_location  varies within account: 0
+          user_timezone   varies within account: 0
+
+[4/8 LABELS]
+          human (female+male)         : 12,894
+          non-human (brand)           : 5,942
+          unknown (kept, is_human=NaN): 1,117
+          rows with confidence < 1.0  : 6,027
+          accounts labelled BOTH human and non-human : 72
+          accounts with any gender disagreement      : 157
+          -> these are direct evidence of the assignment's target and are
+             exported to label_conflicts.csv rather than silently merged.
+
+[5/8 BEHAVIOUR COUNTS]
+          fav_number     median        456   max      341,621   skew     7.91
+          retweet_count  median          0   max          330   skew   106.34
+          tweet_count    median     11,476   max    2,680,199   skew    12.99
+          retweet_count is 0 for 96.9% of rows;
+          has_retweets is provided because the raw count is near-constant.
+
+[6/8 DATES]
+          created parsed             : 19,953 / 19,953
+          created range              : 2006-08-05 .. 2015-10-26
+          capture window             : 2015-10-26 12:39 .. 2015-10-26 13:20
+          account_age_days range     : 0 .. 3,368
+
+[7/8 COLOURS]
+          link_color: ok=18,452, padded=1,049, zero_suspect=417, sci_repaired=33, invalid=2
+          sidebar_color: ok=15,898, zero_suspect=4,006, padded=42, sci_repaired=7
+
+[8/8 TEXT]
+          description  non-empty 16,224   rows with mojibake 2,548   rows with URL 1,305
+          tweet        non-empty 19,953   rows with mojibake 3,734   rows with URL 7,341
+          raw text kept as *_raw; *_clean is unescaped, URL/@/# replaced
+          by tokens, corrupted non-ASCII removed. Length and word-count
+          features are computed on the CLEANED text.
+
+[VALIDATION]
+          [PASS] no duplicate unit_id
+          [PASS] is_human in {0,1,NaN}
+          [PASS] gender_confidence in [0,1]
+          [PASS] RGB within 0-255
+          [PASS] account_age_days >= 0
+          [PASS] no NaN in engineered count columns
+          [PASS] text columns have no NaN
+          [PASS] row count unchanged since filter
+
+[SAVE]
+          twitter_clean.csv           19,953 rows x 55 cols  (one row per judged tweet)
+          twitter_clean_accounts.csv  18,715 rows x 55 cols  (one row per account)
+          label_conflicts.csv         493 rows  (157 accounts)
+          column_guide.csv            55 columns documented

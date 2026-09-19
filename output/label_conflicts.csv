@@ -1,0 +1,842 @@
+account_id,name,unit_id,gender,gender_confidence,is_human,label_conflict_human_brand,tweet_raw
+1D__Sheila|11/14/12 5:18,1D__Sheila,815732312,female,1.0,1.0,1,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/YmYJAPyvNk and Vote for your favorite! _Ù÷_
+1D__Sheila|11/14/12 5:18,1D__Sheila,815733281,brand,0.6745,0.0,1,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/YmYJAPyvNk and Vote for your favorite! _Ù_Ô_Ù÷Ý_Ù÷_Ù÷Ï
+1D__Sheila|11/14/12 5:18,1D__Sheila,815737260,female,1.0,1.0,1,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/YmYJAPyvNk and Vote for your favorite!_Ù÷÷_Ù÷Ñ_Ù÷ª_Ù÷_
+1D__Sheila|11/14/12 5:18,1D__Sheila,815739418,female,1.0,1.0,1,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/YmYJAPyvNk and Vote for your favorite! _Ùªâ_ÙªÄ_Ù÷_÷¼ü_Ù÷Î
+94heskind|3/17/12 13:07,94heskind,815729555,male,0.651,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,653"
+94heskind|3/17/12 13:07,94heskind,815730506,male,0.3413,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,652"
+94heskind|3/17/12 13:07,94heskind,815730738,brand,1.0,0.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,651"
+94heskind|3/17/12 13:07,94heskind,815730939,male,0.6538,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,650"
+94heskind|3/17/12 13:07,94heskind,815731138,female,0.6927,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,649"
+94heskind|3/17/12 13:07,94heskind,815731674,female,0.3373,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,648"
+94heskind|3/17/12 13:07,94heskind,815731984,male,0.3434,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,647"
+94heskind|3/17/12 13:07,94heskind,815732718,brand,0.6524,0.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,646"
+94heskind|3/17/12 13:07,94heskind,815733097,male,0.3384,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,645"
+94heskind|3/17/12 13:07,94heskind,815733305,male,0.6478,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,644"
+94heskind|3/17/12 13:07,94heskind,815733595,brand,0.6605,0.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,643"
+94heskind|3/17/12 13:07,94heskind,815733779,male,0.6588,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,642"
+94heskind|3/17/12 13:07,94heskind,815734534,brand,1.0,0.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,641"
+94heskind|3/17/12 13:07,94heskind,815734701,brand,0.3398,0.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,640"
+94heskind|3/17/12 13:07,94heskind,815734900,male,0.3533,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,639"
+94heskind|3/17/12 13:07,94heskind,815735133,unknown,0.3466,,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,638"
+94heskind|3/17/12 13:07,94heskind,815735338,male,0.3417,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,637"
+94heskind|3/17/12 13:07,94heskind,815735562,female,0.3641,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,636"
+94heskind|3/17/12 13:07,94heskind,815736262,male,0.6627,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,635"
+94heskind|3/17/12 13:07,94heskind,815737208,male,0.6403,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,634"
+94heskind|3/17/12 13:07,94heskind,815737607,male,0.647,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,633"
+94heskind|3/17/12 13:07,94heskind,815737852,brand,0.6601,0.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,632"
+94heskind|3/17/12 13:07,94heskind,815738058,unknown,0.6653,,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,631"
+94heskind|3/17/12 13:07,94heskind,815738432,male,0.6631,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,630"
+94heskind|3/17/12 13:07,94heskind,815738802,male,0.6593,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,629"
+94heskind|3/17/12 13:07,94heskind,815739059,female,0.6796,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,628"
+94heskind|3/17/12 13:07,94heskind,815739313,female,0.3576,1.0,1,"@Harry_Styles thank you for being so genuine and an incredible human. You're so selfless and humble, would you mind following me? ÛÓ 108,627"
+AddisJosephine|10/9/15 12:39,AddisJosephine,815730206,female,1.0,1.0,1,"A History of Playing Cards and a Bibliography of Cards and Gaming by Hargrave, https://t.co/eLcIi2tL2d https://t.co/A3rFSldoiF"
+AddisJosephine|10/9/15 12:39,AddisJosephine,815731458,brand,0.6525,0.0,1,PPORGY AND THE MONARCHS  STAY/SOMEBODY SAID I'D CRY SOMEDAY  MALA 462 https://t.co/6iM3ys0pfJ https://t.co/XrcdxiwmID
+AmnahThunyan|3/17/10 8:21,AmnahThunyan,815721570,unknown,1.0,,1,"But by convention, if a pointer contains the null (zero) value, it is assumed to point to nothing.
+#ios_tu #ICON_TU"
+AmnahThunyan|3/17/10 8:21,AmnahThunyan,815721629,unknown,0.6575,,1,"it signals that the pointer is not intended to point to an accessible memory location.
+#ios_tu #ICON_TU"
+AmnahThunyan|3/17/10 8:21,AmnahThunyan,815721694,male,0.6642,1.0,1,"because that memory is reserved by the operating system. However, the memory address 0 has special significance;
+#ios_tu #ICON_TU"
+AmnahThunyan|3/17/10 8:21,AmnahThunyan,815721779,female,0.336,1.0,1,"On most of the operating systems, programs are not permitted to access memory at address 0
+#ios_tu #ICON_TU"
+AmnahThunyan|3/17/10 8:21,AmnahThunyan,815721831,unknown,0.6777,,1,"or constant that the pointer points to.
+#ios_tu #ICON_TU"
+AmnahThunyan|3/17/10 8:21,AmnahThunyan,815721930,unknown,0.6493,,1,"is the same, a long hexadecimal number that represents a memory address.
+#ios_tu #ICON_TU"
+AmnahThunyan|3/17/10 8:21,AmnahThunyan,815722109,brand,0.3473,0.0,1,"The asterisk * you used to declare a pointer is the same asterisk that you use for multiplication.
+#ios_tu #ICON_TU"
+AmnahThunyan|3/17/10 8:21,AmnahThunyan,815722232,unknown,0.6867,,1,"type *var-name;
+Here, type is the pointer's base type; it must be a valid Objective-C data type
+#ios_tu #ICON_TU"
+AmnahThunyan|3/17/10 8:21,AmnahThunyan,815722391,unknown,0.6666,,1,"A pointer is a variable whose value is the address of another variable, i.e., direct address of the memory location.
+#ios_tu #ICON_TU"
+AyoRahji|5/19/12 6:38,AyoRahji,815721172,brand,0.6484,0.0,1,"Matthew McConaughey To Host Saturday Night Live, Get The Details:  https://t.co/q2SweXmcwU"
+AyoRahji|5/19/12 6:38,AyoRahji,815721211,male,0.6679,1.0,1,Watch The Shocking Walking Dead Scene From Sunday's Horrifying Episode:  https://t.co/gXNAytixSR
+BalbirJudge|6/16/12 11:01,BalbirJudge,815721788,brand,0.6718,0.0,1,"Jewell Khan outside the Saudi Embassy. 
+#entrepreneur  #business  #thebfn  
+#Saudi #finance  #picture https://t.co/1f9cJc930U"
+BalbirJudge|6/16/12 11:01,BalbirJudge,815722691,male,1.0,1.0,1,"Visiting  the Washington Hotel Mayfair for a flim funding  exercise.
+#entrepreneur #business  #thebfnÛ_ https://t.co/C5Ks733hUt"
+Beardlini|5/13/13 20:06,Beardlini,815733175,brand,0.6386,0.0,1,@chrisr249 you may love it and thats totally cool and fine. i just dont like the direction they went w/
+Beardlini|5/13/13 20:06,Beardlini,815735633,male,0.3521,1.0,1,"@chrisr249 smoke and mirrors, friend"
+BookTalkRadio|2/18/15 9:56,BookTalkRadio,815725013,female,1.0,1.0,1,Unanswered prayers can be the best #gifts a person can get. #parents #advice Read: https://t.co/od1cYb1SWy #lifelessons
+BookTalkRadio|2/18/15 9:56,BookTalkRadio,815732314,brand,0.6701,0.0,1,How the #SAV Act will Draw Attention to #Military and #Veteran #Suicide and #MentalIllness. Listen Now: https://t.co/ePZ1NqTYZ9
+CoburnDirk|10/8/15 22:11,CoburnDirk,815736145,male,0.6527,1.0,1,"Light My Fire MealKit 2.0 8-piece Outdoor Meal and Prep Kit, Green https://t.co/hXOKx56T1M https://t.co/zjr0Rzor7y"
+CoburnDirk|10/8/15 22:11,CoburnDirk,815736487,male,0.6658,1.0,1,"Light My Fire MealKit 2.0 8-piece Outdoor Meal and Prep Kit, Cyan https://t.co/ymOMeevoTM https://t.co/5SlZyHsJ0D"
+CoburnDirk|10/8/15 22:11,CoburnDirk,815737092,brand,0.6634,0.0,1,"Light My Fire MealKit 2.0 8-piece Outdoor Meal and Prep Kit, Red https://t.co/zSM7N3tN4U https://t.co/KWh2b2ZsmZ"
+CoburnDirk|10/8/15 22:11,CoburnDirk,815737457,brand,1.0,0.0,1,"Light My Fire MealKit 2.0 8-piece Outdoor Meal and Prep Kit, Orange https://t.co/LhClJGceG5 https://t.co/vomPe3MUnZ"
+Dessy_Dragon|11/6/14 17:08,Dessy_Dragon,815721909,brand,0.6946,0.0,1,"@voidflame @BarabiRedtata Its an interesting point you raise. I'd say if the creator set out to create vore, then it's sexual."
+Dessy_Dragon|11/6/14 17:08,Dessy_Dragon,815730574,female,0.335,1.0,1,@voidflame @BarabiRedtata Your icon and current name never stop making me giggle and smile.
+FX_Gaub|9/11/13 18:31,FX_Gaub,815721149,brand,0.6674,0.0,1,"Tech Setups For EUR/USD, USD/JPY, GBP/USD, AUD/USD - Barclays: The following are the latest technical setups f... https://t.co/1o6IxUBsnu"
+FX_Gaub|9/11/13 18:31,FX_Gaub,815721184,male,0.6666,1.0,1,USD/JPY rebounds and climbs to 121.00: FXStreet (CÌ_rdoba) - USD/JPY trimmed losses during the American session... https://t.co/AwKdEBBWe3
+FX_Gaub|9/11/13 18:31,FX_Gaub,815721231,brand,0.6675,0.0,1,"FxWirePro: USD/JPY key support at 120.47, bullish in the short term: USD/JPY has rebounded strongly after hitt... https://t.co/UtnI6KZ37u"
+FX_Gaub|9/11/13 18:31,FX_Gaub,815728123,male,0.6499,1.0,1,"Tech Setups For EUR/USD, USD/JPY, GBP/USD, AUD/USD - Barclays: The following are the latest technical setups f... https://t.co/VgQxesNHUH"
+FergusFSU|7/1/13 21:24,FergusFSU,815730690,brand,0.6412,0.0,1,@cbinflux They'll still fall in line and obediently vote for her.
+FergusFSU|7/1/13 21:24,FergusFSU,815736676,male,0.672,1.0,1,"@AmericnElephant Mussolini was ALL about freedom and smaller govt, yo!"
+GermanWizard11|4/26/15 17:27,GermanWizard11,815720278,brand,0.6789,0.0,1,Man has literally said the same stuff about a DM for a opinion to like the every girl_Ù÷â_Ù÷__Ù÷¦
+GermanWizard11|4/26/15 17:27,GermanWizard11,815735424,male,0.6549,1.0,1,@TotoMartiaI alright I'll trust you and see where it gets me
+GiGiCapone|3/25/09 1:32,GiGiCapone,815727357,brand,0.6495,0.0,1,NEWS: A Star Is Viral: How 'Jem and the Holograms' Doesn't Get the Internet: Jem and the Holograms was a... https://t.co/z3cgca2XMp #GCPR
+GiGiCapone|3/25/09 1:32,GiGiCapone,815727424,female,0.6719,1.0,1,NEWS: Watch Slipknot's Corey Taylor Slap the Sh-t Out of NXT's Baron Corbin: Slipknot's Corey Taylor isn... https://t.co/spze9upOCc #GCPR
+GiGiCapone|3/25/09 1:32,GiGiCapone,815727585,brand,1.0,0.0,1,NEWS: On the Charts: Pentatonix's Self-Titled LP Grabs Number One: A capella group Pentatonix scooped up... https://t.co/6qGb04wkDi #GCPR
+GirlDaMila|10/1/12 9:59,GirlDaMila,815732375,brand,0.3441,0.0,1,"@Real_Liam_Payne 
+you've always been there for us,
+and i'll always be there for you.
+_ÙÎÎ _ÙÕ_ _ÙÎÎ
+if you can follow me,
+i'll be happy!
+x11.624"
+GirlDaMila|10/1/12 9:59,GirlDaMila,815734318,male,0.651,1.0,1,"@Real_Liam_Payne 
+you've always been there for us,
+and i'll always be there for you.
+_ÙÎÎ _ÙÕ_ _ÙÎÎ
+if you can follow me,
+i'll be happy!
+x11.623"
+GirlDaMila|10/1/12 9:59,GirlDaMila,815735601,female,0.3507,1.0,1,"@Real_Liam_Payne 
+you've always been there for us,
+and i'll always be there for you.
+_ÙÎÎ _ÙÕ_ _ÙÎÎ
+if you can follow me,
+i'll be happy!
+x11.622"
+HeitorLM|7/19/09 11:45,HeitorLM,815723248,brand,0.66,0.0,1,#NowPlaying Snow Patrol - Raze the City https://t.co/hJEYycs7vb
+HeitorLM|7/19/09 11:45,HeitorLM,815723321,male,0.6776,1.0,1,#NowPlaying The Pains of Being Pure at Heart - Higher Than The Stars https://t.co/8xk3nrz4Yb
+HoustonHavens|4/18/12 7:13,HoustonHavens,815724116,brand,0.6701,0.0,1,Most stories origins of people &amp; other worlds change the basis seem 2 stay the same. Not so here NOT AT ALL https://t.co/ubn2gew9TL #TBRlist
+HoustonHavens|4/18/12 7:13,HoustonHavens,815731970,female,1.0,1.0,1,Shomar's the most loveable and funny guy in world. https://t.co/ubn2gew9TL #bestselling Author #ASMSG #PRN #SFR #romance #Fae
+Jace_321|5/28/13 12:42,Jace_321,815733978,male,1.0,1.0,1,"@EchoBornToFight *Jace frowned heavily and rubbed his beard, holding her close with a small sigh. He planted a kiss to her cheek, burying--"
+Jace_321|5/28/13 12:42,Jace_321,815738873,brand,0.3438,0.0,1,"@EchoBornToFight I don't know what to do... She doesn't want me to worry, Clara. And I'm scared of what's going to happen to her...--"
+JayFromAvo|7/24/15 21:41,JayFromAvo,815720058,male,0.6936,1.0,1,Currently plottin watching Sosa the movie.
+JayFromAvo|7/24/15 21:41,JayFromAvo,815728475,brand,0.367,0.0,1,Need this _ÙÓÎ on the all white Yeezy boost.
+JaymOnI_Swaggz|12/12/10 9:00,JaymOnI_Swaggz,815725630,male,0.6471,1.0,1,#HNIC  #KondoByJaymOnI The Impudence of Rabiu Kwakwanso and his Fulani brothers - byÛ_ https://t.co/1C9HYcOftL #Anticipate on @FoshoENT_Radio
+JaymOnI_Swaggz|12/12/10 9:00,JaymOnI_Swaggz,815725755,brand,0.6296,0.0,1,"#HNIC  #KondoByJaymOnI Check out the largest pink diamond to ever be auctioned,Û_ https://t.co/bEfXP4UESk #Anticipate on @FoshoENT_Radio"
+JoeFreedomLove|8/15/14 13:59,JoeFreedomLove,815723259,brand,1.0,0.0,1,US Navy to send a destroyer within 12 miles of disputed islands in the South China Sea https://t.co/7iKgrUDCt0 via @bi_contributors
+JoeFreedomLove|8/15/14 13:59,JoeFreedomLove,815726290,male,1.0,1.0,1,Jews are challenging the 'status quo' at a Jerusalem holy site https://t.co/SmulEaDqdx via @bi_contributors
+JohnnyPetrini|5/6/10 21:59,JohnnyPetrini,815727226,brand,0.6894,0.0,1,EMPOWER THE STATES ACT https://t.co/2NVaB7JGEm  via @3tags_org #PJNET @House_GOP @Senate_GOP @SenTedCruz @SenMikeLee @BobbyJindal @GOP
+JohnnyPetrini|5/6/10 21:59,JohnnyPetrini,815732262,male,1.0,1.0,1,Review: Are Marijuana Tours in Colorado worth your time and money? https://t.co/jjNtZOaGAU  via @3tags_org #PJNET
+KimberlyRules|5/12/09 8:55,KimberlyRules,815720639,male,0.3539,1.0,1,01/2011: A plan to reintroduce #Blackfish Morgan is submitted by the #FreeMorgan Foundation https://t.co/WHBzsVQpVL https://t.co/9DY4d2mJS4
+KimberlyRules|5/12/09 8:55,KimberlyRules,815721922,brand,1.0,0.0,1,11/2011 #Blackfish Morgan is BETRAYED again&amp;sent 2 live w/what DrVisser calls an 'extremely dysfunctional' group[P3] https://t.co/UFTXHTjsLT
+KimberlyRules|5/12/09 8:55,KimberlyRules,815725654,brand,0.3361,0.0,1,11/2011 In the face of extreme controversy Dolfinarium Harderwijk transports #Blackfish Morgan to #LoroParque w/the help of #Seaworld
+LukeIsASequin|6/20/15 21:32,LukeIsASequin,815723324,brand,0.6543,0.0,1,"If you're gonna tweet about your disapproval of the females 5sos associates with, don't tag me in it. Thanks. _Ù÷_"
+LukeIsASequin|6/20/15 21:32,LukeIsASequin,815729523,male,0.3351,1.0,1,@LukeIsASequin they're out of Luke's cover and only 1 Ashton cover is left.
+MARYLOUWhitlock|3/1/13 1:34,MARYLOUWhitlock,815734332,brand,0.647,0.0,1,Beauty and the Bond: Duchess of Cambridge dazzles at star-studded Spectre premiere: THE Duchess of Cambridge arrived at this eveningÛª...
+MARYLOUWhitlock|3/1/13 1:34,MARYLOUWhitlock,815737023,female,0.6705,1.0,1,Whitney Houston fan thrown out of musical for singing along 'loudly and badly': A WHITNEY Houston fan was thrown out of a performance...
+MARYLOUWhitlock|3/1/13 1:34,MARYLOUWhitlock,815737097,unknown,0.3358,,1,"Man 'wrapped up dead wife like a parcel in bin liners', court hears: A MAN strangled his estranged wife and dumped her body with the ..."
+MoangH|10/20/15 8:50,MoangH,815722865,brand,0.3475,0.0,1,"Found a Transponder Snail!
+Get an inside look at the ever-cheerful Buggy Pirates!
+#TreCru https://t.co/y5BpLDxSHQ"
+MoangH|10/20/15 8:50,MoangH,815725424,female,0.662,1.0,1,"Found a Transponder Snail!
+Candid shots of the Straw Hats on their new ship, Merry!
+#TreCru https://t.co/8jT26FXd2H"
+OrionsBlack|10/18/15 10:55,OrionsBlack,815728120,male,0.6615,1.0,1,"@LivingHorcrux -tone and smirk as he looked out on the lake. ""Hagrid is watching us."""
+OrionsBlack|10/18/15 10:55,OrionsBlack,815739536,brand,0.6744,0.0,1,@LivingHorcrux --an awkward tone and looked away.
+Quen2Liz|9/19/15 11:00,Quen2Liz,815720364,female,0.6529,1.0,1,"EVERYDAYDAYILOVEYOU Forevermore
+Weep with the heroineÛªs desperation.
+
+#PushAwardsLizQuens"
+Quen2Liz|9/19/15 11:00,Quen2Liz,815722343,brand,0.6706,0.0,1,"EVERYDAYDAYILOVEYOU Forevermore
+Ride the edge of my seat with the heroÛ_
+
+#PushAwardsLizQuens"
+RSQXE|3/3/15 18:09,RSQXE,815724838,brand,1.0,0.0,1,Check Out The #HOTTEST Girls at _Á https://t.co/o0FV24HDt0 ÂÉ #FOLLOW @DrRXE @Notmeatall3 https://t.co/MqZNwlqbDk
+RSQXE|3/3/15 18:09,RSQXE,815725301,brand,0.6872,0.0,1,Check Out The #HOTTEST Girls at _Á https://t.co/o0FV24HDt0 ÂÉ #FOLLOW @DrRXE @Notmeatall3 https://t.co/vKdjbVHlP3
+RSQXE|3/3/15 18:09,RSQXE,815725772,brand,1.0,0.0,1,Check Out The #HOTTEST Girls at _Á https://t.co/o0FV24HDt0 ÂÉ #FOLLOW @DrRXE @Notmeatall3 https://t.co/IergVdO71z
+RSQXE|3/3/15 18:09,RSQXE,815725886,female,0.6667,1.0,1,Check Out The #HOTTEST Girls at _Á https://t.co/o0FV24HDt0 ÂÉ #FOLLOW @DrRXE @Notmeatall3 https://t.co/oWzeHHLuUv
+RSQXE|3/3/15 18:09,RSQXE,815726149,brand,0.6655,0.0,1,Check Out The #HOTTEST Girls at _Á https://t.co/o0FV24HDt0 ÂÉ #FOLLOW @DrRXE @Notmeatall3 https://t.co/wID8d8p9Qu
+SXYVS|8/28/15 19:07,SXYVS,815725312,female,0.664,1.0,1,Check Out The #HOTTEST Girls at _Á https://t.co/LA4XWa72eW ÂÉ #FOLLOW @DrR0X @Sexiest_Hotties https://t.co/UPF32c70T3
+SXYVS|8/28/15 19:07,SXYVS,815725647,brand,0.6644,0.0,1,Check Out The #HOTTEST Girls at _Á https://t.co/LA4XWa72eW ÂÉ #FOLLOW @DrR0X @Sexiest_Hotties https://t.co/1KQq5bRXKq
+SXYVS|8/28/15 19:07,SXYVS,815725800,brand,0.6666,0.0,1,Check Out The #HOTTEST Girls at _Á https://t.co/LA4XWa72eW ÂÉ #FOLLOW @DrR0X @Sexiest_Hotties https://t.co/a9YmpxKCXq
+SXYVS|8/28/15 19:07,SXYVS,815725868,female,1.0,1.0,1,Check Out The #HOTTEST Girls at _Á https://t.co/LA4XWa72eW ÂÉ #FOLLOW @DrR0X @Sexiest_Hotties https://t.co/sj9Xgaw318
+SXYVS|8/28/15 19:07,SXYVS,815726258,female,0.6797,1.0,1,Check Out The #HOTTEST Girls at _Á https://t.co/LA4XWa72eW ÂÉ #FOLLOW @DrR0X @Sexiest_Hotties https://t.co/J3RzbnCnWy
+SaraContreras03|10/10/15 0:06,SaraContreras03,815731306,brand,0.671,0.0,1,I Just Voted for @onedirection for #ArtistOfTheYear https://t.co/m6og9Erpl8 and Vote for your favorite!  #AMAs #OneDirection @xhazxxx
+SaraContreras03|10/10/15 0:06,SaraContreras03,815734195,brand,0.3487,0.0,1,I Just Voted for @onedirection for #ArtistOfTheYear https://t.co/m6og9Erpl8 and Vote for your favorite!  #AMAs #OneDirection @liamsalvami
+SaraContreras03|10/10/15 0:06,SaraContreras03,815739455,male,0.3395,1.0,1,I Just Voted for @onedirection for #ArtistOfTheYear https://t.co/m6og9Erpl8 and Vote for your favorite!  #AMAs #OneDirection @martam1228
+Shaggy_Saalc|1/20/11 18:44,Shaggy_Saalc,815727771,brand,0.6685,0.0,1,Photoset: twelfthdoctvr: From now on itÛªs me against the world. https://t.co/1cF4Q9t83j
+Shaggy_Saalc|1/20/11 18:44,Shaggy_Saalc,815739420,female,0.6716,1.0,1,Photo: dalbi95: ÔÊ_ÇÔÊ_Ç Just the Doctor and Clara Oswald in the TARDIS! https://t.co/y4xHG3dqS1
+SpartanGrp|11/28/14 14:04,SpartanGrp,815722348,brand,1.0,0.0,1,"You do that, and it means you must take the teeth out of bloomberg and his walking anti-rights bobblehead Shannon Watts. @edscle"
+SpartanGrp|11/28/14 14:04,SpartanGrp,815730119,male,0.3537,1.0,1,"At least Ted isn't working to restrict anyones rights, unlike yourself and bloomberg. @edscle @Duck_Hunter7"
+SuicideBiscuits|6/18/12 23:51,SuicideBiscuits,815733716,brand,0.6683,0.0,1,@TheTimSpencer I'd tie him to my bed and do bad things.
+SuicideBiscuits|6/18/12 23:51,SuicideBiscuits,815736600,female,0.3471,1.0,1,@_RudaMalpa_ a couple of quid I could understand. But that's a quarter of my fucking wages. And I don't get ANY tax credits. WANKER
+TaimedGrimes|10/11/15 7:15,TaimedGrimes,815730419,brand,1.0,0.0,1,"@TWDBeth_ -- on him, then gets in contact with Rick and the group then they come and save him."
+TaimedGrimes|10/11/15 7:15,TaimedGrimes,815733650,male,1.0,1.0,1,@TWDBeth_ I think that Nicholas feel on top of Glenn and he got torn open then Glenn rushes into the dumpster and has a walkie talkie --
+TalkLFC07|12/28/11 0:51,TalkLFC07,815722965,male,0.683,1.0,1,"Still, LiverpoolÛªs problems in front of goal retain prominence on the agenda. (Echo) #lfc"
+TalkLFC07|12/28/11 0:51,TalkLFC07,815726951,brand,0.6611,0.0,1,"This season has been a strange one, the sacking of one manager, and the hiring of another, making it a tricky situation to assess. (Echo)"
+TurnerMillen|6/24/15 1:41,TurnerMillen,815728692,brand,0.6583,0.0,1,#EndyDepression: https://t.co/QrFt9UPE9W  Getting the #Most Out of Your #Meditation https://t.co/knNSaHDXmh
+TurnerMillen|6/24/15 1:41,TurnerMillen,815729050,unknown,0.3466,,1,#insomnia_trick: https://t.co/FmU7EzpmCS  Put Down The Chips! Here Are The 6 Best #Workout Motivation #Tips https://t.co/V9kp18RWIv
+TurnerMillen|6/24/15 1:41,TurnerMillen,815729255,male,0.6363,1.0,1,#beer_benefits: https://t.co/puFwhFTW60  Want to #Save #Money? Fly on a Tuesday! https://t.co/tzkzG3fSF4
+WarsVintage|10/20/15 16:36,WarsVintage,815730803,brand,1.0,0.0,1,"New on eBay: Star Wars Action Figure Lot, Carded, Various Exclusives And Others, Vintage https://t.co/fYn8g7ofGN"
+WarsVintage|10/20/15 16:36,WarsVintage,815731100,female,0.6481,1.0,1,New on eBay: vintage star wars Working millenium falcon Complete &amp; With Box And Instructions https://t.co/oPnN2WUh2V
+WelcomeMeBack|2/13/15 7:38,WelcomeMeBack,815723770,male,0.3382,1.0,1,https://t.co/bVzN2ubYI8 Nike Air Max LeBron 10 X Low Watermelon Size 13. 579765-801 bhm what the kyrie https://t.co/4WyysgESXy
+WelcomeMeBack|2/13/15 7:38,WelcomeMeBack,815726833,brand,0.6718,0.0,1,https://t.co/eGdiZ6WiH4 #sale NEW BALANCE M997CCF CONNOISSEUR GUITAR PACK CHARCOAL/BURGUNDY MADE IN THE USA https://t.co/bzi0XapXRN
+WelcomeMeBack|2/13/15 7:38,WelcomeMeBack,815727029,brand,1.0,0.0,1,https://t.co/eGdiZ6WiH4 #sale NEW BALANCE M997CCF CONNOISSEUR GUITAR PACK CHARCOAL/BURGUNDY MADE IN THE USA https://t.co/MFf5chj4om
+_Desperlady_|9/21/13 4:17,_Desperlady_,815732077,female,0.6755,1.0,1,and she's perfect
+_Desperlady_|9/21/13 4:17,_Desperlady_,815733538,female,0.6868,1.0,1,maybe i should be more like her maybe i should be more like her i can taste her lipstick it's like i'm kissing her too and she's perfect
+_Desperlady_|9/21/13 4:17,_Desperlady_,815738354,brand,0.3429,0.0,1,i can taste her lipstick and see her laying across your chest i can feel the distance every time you remember her fingertips
+_WEYNT|5/10/09 16:32,_WEYNT,815730852,male,1.0,1.0,1,"Photo: #Repost @seekthetruth with @repostapp. ÄÈÄÈÄÈ Repost _ÙÔä @ugly_by_nature 85% of the #tampons, cotton and... https://t.co/8zqaGnA1uG"
+_WEYNT|5/10/09 16:32,_WEYNT,815738385,brand,0.6579,0.0,1,"Photo: #Repost @the_potheadsociety with @repostapp. ÄÈÄÈÄÈ Bacon, ham and sausages rank alongside cigarettes... https://t.co/f91fOhZBQu"
+_ghostlight|5/25/13 15:19,_ghostlight,815730227,brand,0.6445,0.0,1,"Somewhere out there, there is a guy who will buy me unlimited wawa thanksgiving gobbler sandwiches and play with my hair then leave me alone"
+_ghostlight|5/25/13 15:19,_ghostlight,815737885,female,0.6927,1.0,1,"Somewhere out there, there is a record of how many times I've deleted and reinstalled tinder to not talk to anyone and then delete again"
+allthelowex|11/1/12 6:43,allthelowex,815719543,female,1.0,1.0,1,"hi @Harry_Styles ,thank you for being
+so nice. you're my fave art but even
+the best artist couldn't draw you ªÁ ÑÎ.
+follow me, please? ÛÓ79,605"
+allthelowex|11/1/12 6:43,allthelowex,815720723,female,1.0,1.0,1,"hi @Harry_Styles ,thank you for being
+so nice. you're my fave art but even
+the best artist couldn't draw you ªÁ ÑÎ.
+follow me, please? ÛÓ79,604"
+allthelowex|11/1/12 6:43,allthelowex,815721790,female,1.0,1.0,1,"hi @Harry_Styles ,thank you for being
+so nice. you're my fave art but even
+the best artist couldn't draw you ªÁ ÑÎ.
+follow me, please? ÛÓ79,603"
+allthelowex|11/1/12 6:43,allthelowex,815722451,brand,0.6535,0.0,1,"hi @Harry_Styles ,thank you for being
+so nice. you're my fave art but even
+the best artist couldn't draw you ªÁ ÑÎ.
+follow me, please? ÛÓ79,602"
+allthelowex|11/1/12 6:43,allthelowex,815727468,female,1.0,1.0,1,"hi @Harry_Styles ,thank you for being
+so nice. you're my fave art but even
+the best artist couldn't draw you ªÁ ÑÎ.
+follow me, please? ÛÓ79,601"
+amarrateuponei|11/23/14 16:09,amarrateuponei,815720306,brand,0.6528,0.0,1,Vinte e sete @onedirection Artist Of The Year #AMAs
+amarrateuponei|11/23/14 16:09,amarrateuponei,815721233,female,0.6461,1.0,1,Vinte e oito @onedirection Artist Of The Year #AMAs
+amarrateuponei|11/23/14 16:09,amarrateuponei,815722837,female,1.0,1.0,1,Vinte e nove @onedirection Artist Of The Year #AMAs
+ashlallan|6/11/10 3:22,ashlallan,815735456,brand,0.6787,0.0,1,I want to #win the new and improved Shopping List game from @orchardtoys with @chicgeekdiary #competition https://t.co/PK3q8f3oWZ
+ashlallan|6/11/10 3:22,ashlallan,815737430,male,0.6497,1.0,1,Click &amp; enter to #win a Paracords Survival Band Kit with #interplayukltd and @thebrickcastle #Giveaway #Gleam  https://t.co/WvQalOsKPy
+ashleyprofiles|8/19/15 20:11,ashleyprofiles,815729773,male,1.0,1.0,1,"""er, or other encounters.  Also, I need someone who understands that I am in a relationship to stay and I don't want "" (4/6) #AshleyMadison"
+ashleyprofiles|8/19/15 20:11,ashleyprofiles,815729889,male,1.0,1.0,1,"""om time to time.  My work schedule varies so some months I have lots of time to get away and sometimes I just don't "" (2/6) #AshleyMadison"
+ashleyprofiles|8/19/15 20:11,ashleyprofiles,815729931,brand,0.6609,0.0,1,"""I am interested in meeting someone who is attached and just looking to have some fun and break out of the routine fr"" (1/6) #AshleyMadison"
+ashleyprofiles|8/19/15 20:11,ashleyprofiles,815730063,male,0.6673,1.0,1,"""hey are thinking the same thing you are. The immediate physical attractions and the anticipation of getting to know"" (2/3) #AshleyMadison"
+ashleyprofiles|8/19/15 20:11,ashleyprofiles,815730140,male,0.6899,1.0,1,"""There are a lot of things that turn me on but I love the flirting stage, when you catch someones eye and you know t"" (1/3) #AshleyMadison"
+autobot80|3/12/11 19:09,autobot80,815736923,male,1.0,1.0,1,@milanaknez becoming dangerous for Serbs and other groups.
+autobot80|3/12/11 19:09,autobot80,815739453,brand,0.3436,0.0,1,@milanaknez Independance is not far away for RS and I welcome it. The muslims inside the BIH are becoming more and more radical and its
+bearaboi|1/14/10 9:38,bearaboi,815720228,brand,0.6678,0.0,1,"@essexdb what about the Irish in UK? They are migrants too, are they changing and destroying Britain too?"
+bearaboi|1/14/10 9:38,bearaboi,815733446,male,0.6626,1.0,1,"@essexdb then when the time comes, go vote for a Little Britain - one that will be marginalised and ignored in a globalised world."
+cathytofine|6/19/11 15:35,cathytofine,815721834,brand,0.6593,0.0,1,This is explained by the wave-particle duality theory.
+cathytofine|6/19/11 15:35,cathytofine,815723018,female,1.0,1.0,1,'spooky' entanglement is two more particle-like halves/moieties of one  photon joined by the more  wave-like moiety of the single photon.
+elly69belieber|7/29/15 10:06,elly69belieber,815731961,female,1.0,1.0,1,I Just Voted for @justinbieber for #ArtistOfTheYear Go Here https://t.co/bFbEXh0EFX and Vote for your favorite! 10 #AMAs #JustinBieber
+elly69belieber|7/29/15 10:06,elly69belieber,815733193,female,1.0,1.0,1,I Just Voted for @justinbieber for #ArtistOfTheYear Go Here https://t.co/bFbEXh0EFX and Vote for your favorite! 9 #AMAs #JustinBieber
+elly69belieber|7/29/15 10:06,elly69belieber,815734035,female,1.0,1.0,1,I Just Voted for @justinbieber for #ArtistOfTheYear Go Here https://t.co/bFbEXh0EFX and Vote for your favorite! 8 #AMAs #JustinBieber
+elly69belieber|7/29/15 10:06,elly69belieber,815734840,female,1.0,1.0,1,I Just Voted for @justinbieber for #ArtistOfTheYear Go Here https://t.co/bFbEXh0EFX and Vote for your favorite! 7 #AMAs #JustinBieber
+elly69belieber|7/29/15 10:06,elly69belieber,815735904,brand,0.6683,0.0,1,I Just Voted for @justinbieber for #ArtistOfTheYear Go Here https://t.co/bFbEXh0EFX and Vote for your favorite!  6 #AMAs #JustinBieber
+elly69belieber|7/29/15 10:06,elly69belieber,815736654,female,1.0,1.0,1,I Just Voted for @justinbieber for #ArtistOfTheYear Go Here https://t.co/bFbEXh0EFX and Vote for your favorite!  5 #AMAs #JustinBieber
+elly69belieber|7/29/15 10:06,elly69belieber,815737776,female,1.0,1.0,1,I Just Voted for @justinbieber for #ArtistOfTheYear Go Here https://t.co/bFbEXh0EFX and Vote for your favorite! 4 #AMAs #JustinBieber
+elly69belieber|7/29/15 10:06,elly69belieber,815738731,female,0.6707,1.0,1,I Just Voted for @justinbieber for #ArtistOfTheYear Go Here https://t.co/bFbEXh0EFX and Vote for your favorite! 3 #AMAs #JustinBieber
+fangirlinharryx|11/27/11 0:52,fangirlinharryx,815730352,brand,0.6502,0.0,1,Hi @Harry_Styles you are the spirit of my LIFE and you bring happiness into this world. I love you so much H. Mind following me? _ÙÕ÷_ÙÕÇ 3674
+fangirlinharryx|11/27/11 0:52,fangirlinharryx,815734549,female,0.3593,1.0,1,Hi @Harry_Styles you are the spirit of my LIFE and you bring happiness into this world. I love you so much H. Mind following me? _ÙÕ÷_ÙÕÇ 3673
+fangirlinharryx|11/27/11 0:52,fangirlinharryx,815735348,male,0.6686,1.0,1,Hi @Harry_Styles you are the spirit of my LIFE and you bring happiness into this world. I love you so much H. Mind following me? _ÙÕ÷_ÙÕÇ 3672
+iSpeak9ja|10/24/14 5:54,iSpeak9ja,815719351,female,1.0,1.0,1,"NBD, This Comet Is Spewing Gallons of Wine In Space: Scientists have discovered that the comet Lovejoy is spew... https://t.co/42Fa4wwoA1"
+iSpeak9ja|10/24/14 5:54,iSpeak9ja,815719550,brand,0.6572,0.0,1,"Jack ÌÏÛªs New Û÷To ÌÏÛª Video Will Make You Want To Kiss The Next Person You See: Jack U's newest video for ""To U,... https://t.co/AWJR7W6GfV"
+irisannwests|3/15/15 21:55,irisannwests,815720301,brand,0.6723,0.0,1,"first you take away Iris' right to be mad at joe, then you have her almost apologise to him and for what? what the hell @FLASHtvwriters"
+irisannwests|3/15/15 21:55,irisannwests,815738204,female,0.6662,1.0,1,i updated my twitter app and it still won't let me make one of those polls... _Ù÷©
+itsAkbotaBiebs|6/3/13 10:34,itsAkbotaBiebs,815719494,brand,0.351,0.0,1,@justinbieber Artist of the year  #AMAs https://t.co/w1RaGU8XsJ
+itsAkbotaBiebs|6/3/13 10:34,itsAkbotaBiebs,815721768,unknown,0.6538,,1,@justinbieber Artist of the year  #AMAs https://t.co/2FPtcLXEUl
+itsAkbotaBiebs|6/3/13 10:34,itsAkbotaBiebs,815725407,female,0.6561,1.0,1,@justinbieber Artist of the year  #AMAs https://t.co/4LnTmGRrTU
+itsAkbotaBiebs|6/3/13 10:34,itsAkbotaBiebs,815727741,female,0.69,1.0,1,@justinbieber Artist of the year  #AMAs https://t.co/V0QOAHV4jO
+jasonwhithamsw|10/12/15 13:30,jasonwhithamsw,815731409,male,1.0,1.0,1,Homework Helpers : Chemistry by Greg Curran and Curran (E-book) https://t.co/ciHaesM5Ry https://t.co/uVTpV2xO3e
+jasonwhithamsw|10/12/15 13:30,jasonwhithamsw,815731498,brand,1.0,0.0,1,Israel 1999 Abraham and the Stars 10NS 1/2 oz Gold NGC PF69 ULTRA CAMEO https://t.co/EYxxv0yLeK https://t.co/cRLxJcN82g
+jasonwhithamsw|10/12/15 13:30,jasonwhithamsw,815731991,male,1.0,1.0,1,Israel 1999 Abraham and the Stars 10NS 1/2 oz Gold NGC PF68 ULTRA CAMEO https://t.co/PXKxx16TQ0 https://t.co/aWBMcdg9sm
+keniarivas8|8/31/12 12:51,keniarivas8,815731197,female,0.6828,1.0,1,I Just Voted for yeha @onedirection for #ArtistOfTheYear Go Here https://t.co/j26Oe2Qnwz and Vote for your favorite!  #AMAs #OneDirection
+keniarivas8|8/31/12 12:51,keniarivas8,815733219,brand,0.6612,0.0,1,I Just  only Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/zZNk3RGPaC and Vote for your favorite!  #AMAs #OneDirection
+keniarivas8|8/31/12 12:51,keniarivas8,815736592,brand,0.6471,0.0,1,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/oItACAgMya and Vote for your favorite!  #AMAs #OneDirection
+keniarivas8|8/31/12 12:51,keniarivas8,815738284,unknown,1.0,,1,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/VpTKwnkgQD and Vote for your favorite!  #AMAs #OneDirection
+mackymarz|11/24/10 5:11,mackymarz,815723656,brand,0.6709,0.0,1,I hate that everytime I come to this lady is the same damn story.
+mackymarz|11/24/10 5:11,mackymarz,815728888,female,1.0,1.0,1,I've been in this damn office for the past 2.5hrs. I'm starving and cranky and I just want to go home.
+ohiscot21|1/7/10 10:49,ohiscot21,815727257,male,0.6883,1.0,1,https://t.co/T5YRRVkSaY its not an easy read if the typing is important
+ohiscot21|1/7/10 10:49,ohiscot21,815731381,brand,0.6714,0.0,1,due to his demurrer and then himrefusing to cover REGISTRY since ordering IRS seems futilke
+parentbuzzz|7/29/15 2:35,parentbuzzz,815722326,brand,1.0,0.0,1,nathanbrannon: I'm gonna start periscoping myself making baby food with trap music playing in the background... #parenting #Periscope
+parentbuzzz|7/29/15 2:35,parentbuzzz,815722450,female,0.6746,1.0,1,Nicki_Priem: Do you remember the first time you peed in the ocean? #kids #ocean #beach #fun #sun #sunset #sunsets Û_ https://t.co/eVPKjN3Rgd
+parentbuzzz|7/29/15 2:35,parentbuzzz,815722720,brand,0.6801,0.0,1,"gmgilmore: Life with an almost 12 year old daughter. I'm the coolest one minute, the worst the next. #tween #parenting"
+parentbuzzz|7/29/15 2:35,parentbuzzz,815723126,brand,0.6476,0.0,1,ParentingSpot: https://t.co/vLRYOyuKHg Friends share #parenting info the free forum &amp; we share them on Social Media.You can join this listÛ_
+parentbuzzz|7/29/15 2:35,parentbuzzz,815723201,brand,1.0,0.0,1,LovingSanders: Cons and pros of managing medication for ADHD https://t.co/DKt48Tsr5U #adhd #parenting
+parentbuzzz|7/29/15 2:35,parentbuzzz,815723333,unknown,0.6694,,1,"City_Savvy_Lux: Lysanne Sizoo on the challenges and rewards of #parenting in a #foreign land:
+
+https://t.co/POZ66UBMQy
+
+#TCKs #expatmum #eÛ_"
+parentbuzzz|7/29/15 2:35,parentbuzzz,815723463,brand,0.6744,0.0,1,GeekInfoNow: 5 things you can do tonight to reverse the U.S. food crisis https://t.co/hmDQs1TX66 #Health #Kids #Parenting #Policy
+prslava15|9/24/15 8:41,prslava15,815720352,brand,0.6707,0.0,1,"EVERYDAYDAYILOVEYOU Forevermore
+Weep with the heroineÛªs desperation.
+
+#PushAwardsLizQuens"
+prslava15|9/24/15 8:41,prslava15,815722347,female,0.671,1.0,1,"EVERYDAYDAYILOVEYOU Forevermore
+Ride the edge of my seat with the heroÛ_
+
+#PushAwardsLizQuens"
+pxmpl|8/13/13 5:14,pxmpl,815735783,brand,0.3333,0.0,1,I Just Voted for @5SOS for #ArtistOfTheYear Go Here https://t.co/2xkhVMi9gP and Vote for your favorite! #vote5sos
+pxmpl|8/13/13 5:14,pxmpl,815737532,female,1.0,1.0,1,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/2xkhVMi9gP and Vote for your favorite! ALLER #voteonedirection
+rtc855|3/28/15 2:29,rtc855,815720347,brand,1.0,0.0,1,"EVERYDAYDAYILOVEYOU Forevermore
+Weep with the heroineÛªs desperation.
+
+#PushAwardsLizQuens"
+rtc855|3/28/15 2:29,rtc855,815722344,female,0.6715,1.0,1,"EVERYDAYDAYILOVEYOU Forevermore
+Ride the edge of my seat with the heroÛ_
+
+#PushAwardsLizQuens"
+ruthHotReviewTV|3/4/13 5:55,ruthHotReviewTV,815734343,brand,1.0,0.0,1,Beauty and the Bond: Duchess of Cambridge dazzles at star-studded Spectre premiere: THE Duchess of Cambridge arrived at this eveningÛª...
+ruthHotReviewTV|3/4/13 5:55,ruthHotReviewTV,815737020,brand,1.0,0.0,1,Whitney Houston fan thrown out of musical for singing along 'loudly and badly': A WHITNEY Houston fan was thrown out of a performance...
+ruthHotReviewTV|3/4/13 5:55,ruthHotReviewTV,815737109,female,0.6788,1.0,1,"Man 'wrapped up dead wife like a parcel in bin liners', court hears: A MAN strangled his estranged wife and dumped her body with the ..."
+semieitas|2/16/14 12:24,semieitas,815729660,male,0.3387,1.0,1,@sleepyficteer chances are. they're happy they ruined someone's mental health. and they brag about it.
+semieitas|2/16/14 12:24,semieitas,815734375,brand,0.6727,0.0,1,Imagine...if Tendou originally lived in Tokyo and was childhood friends with Bokuto and Kuroo...and he just grew apart from them. Imagine.
+skybernsieford|8/17/15 20:58,skybernsieford,815733980,unknown,0.6673,,1,"dallasxford: knxbluehearts: opao0608: JESUS IS THE WAY, THE TRUTH, AND THE LIFE 
+
+GH || ||   Go! #PushAwardsKathNiÛ_ https://t.co/y6bMTCsrN1"
+skybernsieford|8/17/15 20:58,skybernsieford,815734065,unknown,0.6519,,1,"dallasxford: knsolidified2: krisheyllenico2: meow072006: JESUS IS THE WAY, THE TRUTH, AND THE LIFE 
+
+TR || Û_ || #Û_Û_ https://t.co/YxPnLyNbEI"
+skybernsieford|8/17/15 20:58,skybernsieford,815734146,brand,0.6592,0.0,1,"dallasxford: knxbluehearts: olivetarampi: JESUS IS THE WAY, THE TRUTH, AND THE LIFE 
+
+GH || Û_ || Û_ Û_  Go! #PushAwaÛ_ https://t.co/3ooq9cEZiT"
+skybernsieford|8/17/15 20:58,skybernsieford,815734200,female,1.0,1.0,1,"dallasxford: savedacccren5: meow1977: JESUS IS THE WAY, THE TRUTH, AND THE LIFE 
+
+NB || ||   Go! #PushAwardsKathNiÛ_ https://t.co/1S3DAMbsUz"
+sonnyandmilla|5/17/13 21:15,sonnyandmilla,815730632,female,0.6715,1.0,1,"This photo of Keanu makes me laugh... He is finally free, walking everywhere on his own and no longer... https://t.co/HXHTmw1lz3"
+sonnyandmilla|5/17/13 21:15,sonnyandmilla,815730922,brand,0.6617,0.0,1,"This photo of Keanu makes me laugh... He is finally free, walking everywhere on his own and no longerÛ_ https://t.co/ztzw0cEab4"
+sprinklofstyles|4/25/14 9:01,sprinklofstyles,815719993,unknown,0.6685,,1,"@Harry_Styles I love you very much and you mean so much to me_ÙÕÒ, I can't wait to hear Made In The A.M., I am so so excited_ÙÕ¥_Ùâ_ÙÎÙ! 
+x2,086"
+sprinklofstyles|4/25/14 9:01,sprinklofstyles,815720687,female,0.6766,1.0,1,"@Harry_Styles I love you very much and you mean so much to me_ÙÕÒ, I can't wait to hear Made In The A.M., I am so so excited_ÙÕ¥_Ùâ_ÙÎÙ! 
+x2,085"
+sprinklofstyles|4/25/14 9:01,sprinklofstyles,815721825,female,1.0,1.0,1,"@Harry_Styles I love you very much and you mean so much to me_ÙÕÒ, I can't wait to hear Made In The A.M., I am so so excited_ÙÕ¥_Ùâ_ÙÎÙ! 
+x2,084"
+sprinklofstyles|4/25/14 9:01,sprinklofstyles,815722380,male,0.6741,1.0,1,"@Harry_Styles I love you very much and you mean so much to me_ÙÕÒ, I can't wait to hear Made In The A.M., I am so so excited_ÙÕ¥_Ùâ_ÙÎÙ! 
+x2,083"
+sprinklofstyles|4/25/14 9:01,sprinklofstyles,815723044,male,1.0,1.0,1,"@Harry_Styles I love you very much and you mean so much to me_ÙÕÒ, I can't wait to hear Made In The A.M., I am so so excited_ÙÕ¥_Ùâ_ÙÎÙ! 
+x2,082"
+sprinklofstyles|4/25/14 9:01,sprinklofstyles,815723607,brand,0.3532,0.0,1,"@Harry_Styles I love you very much and you mean so much to me_ÙÕÒ, I can't wait to hear Made In The A.M., I am so so excited_ÙÕ¥_Ùâ_ÙÎÙ! 
+x2,081"
+sprinklofstyles|4/25/14 9:01,sprinklofstyles,815724418,unknown,0.341,,1,"@Harry_Styles I love you very much and you mean so much to me_ÙÕÒ, I can't wait to hear Made In The A.M., I am so so excited_ÙÕ¥_Ùâ_ÙÎÙ! 
+x2,080"
+sprinklofstyles|4/25/14 9:01,sprinklofstyles,815725850,male,0.6915,1.0,1,"@Harry_Styles I love you very much and you mean so much to me_ÙÕÒ, I can't wait to hear Made In The A.M., I am so so excited_ÙÕ¥_Ùâ_ÙÎÙ! 
+x2,079"
+sprinklofstyles|4/25/14 9:01,sprinklofstyles,815726909,female,0.3515,1.0,1,"@Harry_Styles I love you very much and you mean so much to me_ÙÕÒ, I can't wait to hear Made In The A.M., I am so so excited_ÙÕ¥_Ùâ_ÙÎÙ! 
+x2,078"
+sprinklofstyles|4/25/14 9:01,sprinklofstyles,815727938,unknown,0.343,,1,"@Harry_Styles I love you very much and you mean so much to me_ÙÕÒ, I can't wait to hear Made In The A.M., I am so so excited_ÙÕ¥_Ùâ_ÙÎÙ! 
+x2,077"
+sprinklofstyles|4/25/14 9:01,sprinklofstyles,815728816,male,0.6713,1.0,1,"@Harry_Styles I love you very much and you mean so much to me_ÙÕÒ, I can't wait to hear Made In The A.M., I am so so excited_ÙÕ¥_Ùâ_ÙÎÙ! 
+x2,076"
+stylescareful|1/31/15 13:06,stylescareful,815723650,brand,0.6696,0.0,1,"@Harry_Styles
+You're the BEST vision to my eyes
+ &amp; your voice is the best MELODY to my ears, I LOVE YOU so much.
+ Mind FOLLOWING me? ÛÓ48,260"
+stylescareful|1/31/15 13:06,stylescareful,815724507,male,1.0,1.0,1,"@Harry_Styles
+You're the BEST vision to my eyes
+ &amp; your voice is the best MELODY to my ears, I LOVE YOU so much.
+ Mind FOLLOWING me? ÛÓ48,259"
+stylescareful|1/31/15 13:06,stylescareful,815726153,female,1.0,1.0,1,"@Harry_Styles
+You're the BEST vision to my eyes
+ &amp; your voice is the best MELODY to my ears, I LOVE YOU so much.
+ Mind FOLLOWING me? ÛÓ48,258"
+stylescareful|1/31/15 13:06,stylescareful,815726913,brand,0.6831,0.0,1,"@Harry_Styles
+You're the BEST vision to my eyes
+ &amp; your voice is the best MELODY to my ears, I LOVE YOU so much.
+ Mind FOLLOWING me? ÛÓ48,257"
+stylescareful|1/31/15 13:06,stylescareful,815728962,brand,0.3424,0.0,1,"@Harry_Styles
+You're the BEST vision to my eyes
+ &amp; your voice is the best MELODY to my ears, I LOVE YOU so much.
+ Mind FOLLOWING me? ÛÓ48,256"
+tillymintboutiq|7/31/11 10:55,tillymintboutiq,815729932,female,1.0,1.0,1,@knitnrun4sanity yeah not a problem sewing and crochet ok too :-) how's the running going?
+tillymintboutiq|7/31/11 10:55,tillymintboutiq,815737758,brand,0.6572,0.0,1,"@knitnrun4sanity aggrevated in gym and snowboarding, now can't hold a pan or open a door without increasing pain :-( thanks for the hugs! x"
+wayoftheaviator|9/7/12 19:57,wayoftheaviator,815725381,brand,0.6524,0.0,1,@johnroderick @danbenjamin The way of the future.
+wayoftheaviator|9/7/12 19:57,wayoftheaviator,815751197,male,0.7538,1.0,1,@johnroderick @danbenjamin The way of the future.
+wotanonymous|6/12/14 2:56,wotanonymous,815725583,brand,0.6414,0.0,1,"VIDEO: James Bond Spectre world premiere: After months of build up Spectre, the latest instalment in the James... https://t.co/C75h9sYVyN"
+wotanonymous|6/12/14 2:56,wotanonymous,815726233,female,0.3488,1.0,1,"VIDEO: James Bond Spectre world premiere: After months of build up Spectre, the latest instalment in the James... https://t.co/kgMaYBPBez"
+xlarspanda|8/27/15 14:54,xlarspanda,815734464,unknown,0.647,,1,I wanna win! Hull Uni Students! Follow us and Retweet this message for a chance to win a å£20 Amazon Voucher! For mÛ_ https://t.co/9GbbyugjnL
+xlarspanda|8/27/15 14:54,xlarspanda,815734583,male,0.6571,1.0,1,"I wanna win!      
+
+We win you lose!
+
+Go  and hurry! https://t.co/nAAUvFc7KV"
+xlarspanda|8/27/15 14:54,xlarspanda,815734644,male,0.668,1.0,1,"I wanna win! 100 Retweets and I'll randomize names for a chance to win 1 free booster for any minigame or VIP.
+
+EnÛ_ https://t.co/inOjGvFWHT"
+xlarspanda|8/27/15 14:54,xlarspanda,815734688,brand,0.6436,0.0,1,"I wanna win! Rainbow hair, don't care? Show us and you could win a year's supply of hair dye. LAST DAY:   https://t.co/XgkoyiENIE"
+101918171615aa|10/25/15 13:00,101918171615aa,815720117,brand,0.6614,0.0,0,"@onedirection 
+Artist of the Year 
+#AMAs 
+X10"
+101918171615aa|10/25/15 13:00,101918171615aa,815721869,brand,1.0,0.0,0,"@onedirection 
+Artist of the Year 
+#AMAs 
+X9"
+101918171615aa|10/25/15 13:00,101918171615aa,815722643,brand,1.0,0.0,0,"@onedirection 
+Artist of the Year 
+#AMAs 
+X8"
+101918171615aa|10/25/15 13:00,101918171615aa,815723507,unknown,1.0,,0,"@onedirection 
+Artist of the Year 
+#AMAs 
+X7"
+101918171615aa|10/25/15 13:00,101918171615aa,815724852,unknown,0.6628,,0,"@onedirection 
+Artist of the Year 
+#AMAs 
+X6"
+101918171615aa|10/25/15 13:00,101918171615aa,815726662,brand,0.6712,0.0,0,"@onedirection 
+Artist of the Year 
+#AMAs 
+X5"
+101918171615aa|10/25/15 13:00,101918171615aa,815728268,brand,1.0,0.0,0,"@onedirection 
+Artist of the Year 
+#AMAs 
+X4"
+101918171615aa|10/25/15 13:00,101918171615aa,815729254,unknown,0.6515,,0,"@onedirection 
+Artist of the Year 
+#AMAs 
+X3"
+10videos_2nd|9/13/15 10:23,10videos_2nd,815730857,unknown,0.3409,,0,"Graceful Blonde Apprentice Expand Her Extra Long Legs And Slides A Studded Rabbit Toy Toy Hard Inside... https://t.co/DdLiCqE443
+ #Amateur"
+10videos_2nd|9/13/15 10:23,10videos_2nd,815730923,brand,0.6822,0.0,0,"Amateur Daughter Seduced And Fucked By Old Father https://t.co/rs0Ttmz6Qx
+ #Amateur"
+4328fox|4/20/15 6:08,4328fox,815731157,unknown,0.6705,,0,"JSUT
+SMILE TA EACH OTHER
+AND THAT'S ON FIRE SHIT IF JORTS norts no furry opinions I LOOKED AROUND FOR! ÛÓ https://t.co/RIQOlSD0Hc"
+4328fox|4/20/15 6:08,4328fox,815733733,brand,0.6811,0.0,0,"It's called crime and whenever there's a free slot for now
+im off watching my cat shamelessly sitthing. ÛÓ https://t.co/RIQOlSD0Hc"
+5yellowdogdem|11/18/10 11:16,5yellowdogdem,815727336,unknown,0.6563,,0,George Bush and Dick Cheney need to vacation in Irac the paradise they created
+5yellowdogdem|11/18/10 11:16,5yellowdogdem,815754554,male,0.5762,1.0,0,George Bush and Dick Cheney need to vacation in Irac the paradise they created
+94hesflawless|10/2/14 19:11,94hesflawless,815726958,female,0.6785,1.0,0,"÷_ @Harry_Styles
+One day IÛªm gonna meet you &amp; hold you tight
+I hope it happens soon «Ñíö 
+mind you follow me?
+All the love, B *_Ä
+ Õ16.050"
+94hesflawless|10/2/14 19:11,94hesflawless,815727915,male,0.6453,1.0,0,"÷_ @Harry_Styles
+One day IÛªm gonna meet you &amp; hold you tight
+I hope it happens soon «Ñíö 
+mind you follow me?
+All the love, B *_Ä
+ Õ16.049"
+AudreyS23511436|6/8/15 11:43,AudreyS23511436,815725078,male,1.0,1.0,0,"#NEW #99c ""HOT HOT HOT"" ""This story is... EVERYTHING"" The O'Conners by @AuthorRCMartin https://t.co/IOT0hZgukP https://t.co/WUFSg5xyQO"
+AudreyS23511436|6/8/15 11:43,AudreyS23511436,815728099,female,0.6611,1.0,0,#WIN signed paperbacks of The O'Conners by @AuthorRCMartin https://t.co/fJ95XfwU47 https://t.co/WUFSg5xyQO
+BandsMyWeakness|12/20/12 2:19,BandsMyWeakness,815729812,brand,0.6544,0.0,0,@hipsterliam00  and everything is fine. oh did you? you're a fighter! I'm so happy for you xx
+BandsMyWeakness|12/20/12 2:19,BandsMyWeakness,815730313,unknown,0.6903,,0,"@hipsterliam00 yeah if you see every illness it's like this, you find all and even more causes for that disease and later you find it's cure"
+BestCoachRadio|4/8/13 12:13,BestCoachRadio,815724553,unknown,0.3455,,0,Master Class: https://t.co/bEZuq3tlJu Supersonic Series the Superhero in you. Powerful #TalkRadio with Metaphysician Dr. Teggelove.
+BestCoachRadio|4/8/13 12:13,BestCoachRadio,815732158,female,0.6557,1.0,0,Learn how you to harness your best time and get your most important work done. Listen Live: https://t.co/dn7nCJnwQ1 best #TalkRadio
+CK_Kirbi|9/17/14 18:08,CK_Kirbi,815732655,male,0.3591,1.0,0,"@TheRalphRetort Can you do me just one favor, and please play nice with her? I know you every reason not to, but I'm exhausted from this man"
+CK_Kirbi|9/17/14 18:08,CK_Kirbi,815737728,unknown,1.0,,0,"@TheRalphRetort I blame you for the last 3 hours of my day, LMAO. So.. I've gone to the mat for you, and V may well have that talk."
+Chota_Qureshi|1/16/14 10:48,Chota_Qureshi,815736986,male,0.3206,1.0,0,"Misbah-ul-Haq on Younis Khan. "" He keeps the game moving and I am really comfortable when I am playing with him."" https://t.co/4t0FSoHTEq"
+Chota_Qureshi|1/16/14 10:48,Chota_Qureshi,815738228,unknown,0.6403,,0,"Misbah-ul-Haq on Younis Khan. ""In discipline and preparation, he's always there to perform."" https://t.co/444lbZCado"
+Coco_4711|1/22/15 11:26,Coco_4711,815721040,unknown,0.6777,,0,@fiorifan @19Barbara57 @McCannCaseTweet its #McCann hun. There are no depths to which the psychopaths wont stoop to protect Idols.
+Coco_4711|1/22/15 11:26,Coco_4711,815734727,female,0.3538,1.0,0,"...and here's a shill acknowledging what a ""tough gig"" #McCann is....
+#youcouldntmakeitup #OWNGOAL #lol #cheers  https://t.co/BLdwFyTNZh"
+DrBBahrami|2/26/12 8:49,DrBBahrami,815719847,male,0.6747,1.0,0,Why are there so many plant and animal species ? Book ÛÏThe Mystery of Origin of the UniverseÛ https://t.co/JC0vGn1QSW Û_ Û_ Û_ Û_ Û_ Û_
+DrBBahrami|2/26/12 8:49,DrBBahrami,815723245,unknown,0.338,,0,Why is the life limited ? Book ÛÏThe Mystery of Origin of the UniverseÛ https://t.co/JC0vGn1QSW Û_ Û_ Û_ Û_ Û_ Û_ Û_
+Edmo_and_Jacko|10/25/15 12:47,Edmo_and_Jacko,815731597,brand,0.6648,0.0,0,Is anyone single because I'm the right Pringle for you -Charlotte &lt;3
+Edmo_and_Jacko|10/25/15 12:47,Edmo_and_Jacko,815736917,unknown,0.6838,,0,@SetQwote follow us plz _ÙÕÐ
+Einherion|3/30/09 20:24,Einherion,815729464,unknown,0.6587,,0,"@unormal 
+Yes. And so energy dense by almost any measure (vol weight energy input:output)"
+Einherion|3/30/09 20:24,Einherion,815735364,brand,0.6703,0.0,0,"@unormal 
+Scrub air, scrub ocean somehow? Potential reverse effects. Granted I bet miss scale and scope of indrev damage. Time heals all?"
+HarisBrutalo|7/22/15 1:14,HarisBrutalo,815721285,male,0.6605,1.0,0,"Found a Transponder Snail!
+Get an inside look at the ever-cheerful Buggy Pirates!
+#TreCru https://t.co/8IaTxbYUms"
+HarisBrutalo|7/22/15 1:14,HarisBrutalo,815727196,unknown,0.6548,,0,"Found a Transponder Snail!
+Take a look at the Fishmen behind Arlong Park!
+#TreCru https://t.co/lav5m7GQZM"
+HopeQuen3|9/26/15 0:16,HopeQuen3,815720343,female,0.688,1.0,0,"EVERYDAYDAYILOVEYOU Forevermore
+Weep with the heroineÛªs desperation.
+
+#PushAwardsLizQuens"
+HopeQuen3|9/26/15 0:16,HopeQuen3,815722350,unknown,0.6667,,0,"EVERYDAYDAYILOVEYOU Forevermore
+Ride the edge of my seat with the heroÛ_
+
+#PushAwardsLizQuens"
+JennaDugray|10/8/12 7:54,JennaDugray,815727843,female,0.3498,1.0,0,Jared Leto Is Big Pimpin' On The Cover Of Empire ÛÓ See What He Said About The Problems With Playing The Joker HEREÛ_ https://t.co/6Jmx7y2MWy
+JennaDugray|10/8/12 7:54,JennaDugray,815727896,unknown,0.3409,,0,New Couple Alert ÛÓ The Daily Show's Trevor Noah Is Reportedly Dating Model Jordyn Taylor!: Aw! The Daily Show hostÛ_ https://t.co/gwelYxO18F
+JennaDugray|10/8/12 7:54,JennaDugray,815728293,female,0.6525,1.0,0,Walking Dead Fan Brutally Murders Friend Who He Says Was Turning Into A Zombie ÛÓ Get The Crazy Scary Details HEREÛ_ https://t.co/SQ1v8CCTFV
+JennaDugray|10/8/12 7:54,JennaDugray,815728375,female,0.6807,1.0,0,Alec &amp; Hilaria Baldwin Take Their Daughter Carmen To The Pumpkin Patch ÛÓ See Pics From The Adorable Outing HEREÛ_ https://t.co/tvOqdLSpTp
+Just_Jovan|3/31/12 10:13,Just_Jovan,815728797,unknown,0.3488,,0,Your lack of tax contribution 'damages the nation' but their killing of millions of human beings 'protects the nation'
+Just_Jovan|3/31/12 10:13,Just_Jovan,815730598,male,0.6576,1.0,0,"And we know this, so sooner or later we'll feel frustrated that we are not connected."
+KangenGaa|7/19/13 7:47,KangenGaa,815735398,brand,0.6786,0.0,0,One StateÛªs Struggle to Make Ends Meet: Why Illinois Is Without a Budget https://t.co/kdAiUftKyG
+KangenGaa|7/19/13 7:47,KangenGaa,815735434,unknown,0.6713,,0,One StateÛªs Struggle to Make Ends Meet: Why Illinois Is Without a Budget https://t.co/b2SmGJsSZ9
+KendraBryson|10/9/15 15:07,KendraBryson,815722249,unknown,0.3362,,0,The Antiquities of the Jews Volume 1 by Flavius Josephus https://t.co/COFvcIByZP https://t.co/4P7hHTEMBC
+KendraBryson|10/9/15 15:07,KendraBryson,815722939,female,1.0,1.0,0,The German Classics of the Nineteenth and Twentieth Centuries Volume VIII by Var https://t.co/2UIsExls3h https://t.co/pNX9gzNhGp
+KendraBryson|10/9/15 15:07,KendraBryson,815723558,female,0.6252,1.0,0,A Social History of the American Negro by Benjamin Griffith Brawley https://t.co/E0j8mz9zn8 https://t.co/3sBQUfzVk3
+KendraBryson|10/9/15 15:07,KendraBryson,815724139,female,1.0,1.0,0,The Constitutional History of England from 1760 to 1860 by Charles Duke Yonge https://t.co/HLZQci1gPw https://t.co/WQEeI0ukkK
+KinkyKian13|7/22/15 0:34,KinkyKian13,815729603,female,0.6727,1.0,0,@camerondallas I'm bored. Wanna watch Disney and cuddle? (No I didn't mean Netflix and Chill.)
+KinkyKian13|7/22/15 0:34,KinkyKian13,815737831,male,1.0,1.0,0,@camerondallas I HAVE YOU AS MY SCREENSAVER AND NEVER REALIZED IT PUTS YOUR FACE IN THE 0 BEFORE IM CRYING_Ù÷â_Ù÷â https://t.co/YlZC72X97y
+LebretonAbby|1/28/14 9:13,LebretonAbby,815730851,male,0.6748,1.0,0,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/m0b5CYWJsz and Vote for your favorite!  #AMAs #OneDirection xz
+LebretonAbby|1/28/14 9:13,LebretonAbby,815732586,male,0.6505,1.0,0,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/m0b5CYWJsz and Vote for your favorite!  #AMAs #OneDirection cv
+LebretonAbby|1/28/14 9:13,LebretonAbby,815733750,male,1.0,1.0,0,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/m0b5CYWJsz and Vote for your favorite!  #AMAs #OneDirection cc
+LebretonAbby|1/28/14 9:13,LebretonAbby,815734565,male,0.6581,1.0,0,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/m0b5CYWJsz and Vote for your favorite!  #AMAs #OneDirection x
+LebretonAbby|1/28/14 9:13,LebretonAbby,815735711,female,0.6791,1.0,0,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/m0b5CYWJsz and Vote for your favorite!  #AMAs #OneDirection v
+LebretonAbby|1/28/14 9:13,LebretonAbby,815737349,male,1.0,1.0,0,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/m0b5CYWJsz and Vote for your favorite!  #AMAs #OneDirection xc
+McJerkyface|2/13/11 13:29,McJerkyface,815729783,unknown,0.3494,,0,"But at the same time, that's what you have education for. And that's what I'm heading for."
+McJerkyface|2/13/11 13:29,McJerkyface,815734524,brand,0.6754,0.0,0,Didn't get my contract renewed at work and that sucks a bit. I feel sucky because I'm not the best I can be FROM THE VERY START
+MrFilmReview|8/22/14 3:00,MrFilmReview,815727610,brand,1.0,0.0,0,"Destiny's Halloween event adds masks, quests, and the Thriller dance: 
+                        700 silv... https://t.co/Uzs6wIP2yy #Movie"
+MrFilmReview|8/22/14 3:00,MrFilmReview,815727715,unknown,0.6768,,0,The Division's blizzards will make it harder to aim and easier to sneak:  https://t.co/z2qaxrRFLd #Movie
+Netfaps|6/21/13 19:18,Netfaps,815731340,brand,0.6889,0.0,0,iCookie2: Please ReTweet: An In-Depth Look at Storage and App Thinning on the New Apple TV   https://t.co/VdI0afdFIL #apple #IOS Û_
+Netfaps|6/21/13 19:18,Netfaps,815731424,unknown,0.3505,,0,iCookie2: Please ReTweet: An In-Depth Look at Storage and App Thinning on the New Apple TV  by  https://t.co/cW3uMjdavI #apple #IOS Û_
+PinkieFanClub|2/24/15 3:59,PinkieFanClub,815730303,brand,0.6605,0.0,0,"Does anypony here watch Rick and Morty on Adult swim? I frickin love that show. 
+#pinkiepie #twilightsparkle #rainbÛ_ https://t.co/9U7iq3xZOq"
+PinkieFanClub|2/24/15 3:59,PinkieFanClub,815731367,unknown,0.6638,,0,"My first #mlpadopt, A female breezie. The winner will have to provide the first good name and backstory. If you winÛ_ https://t.co/8KC0mPBQwv"
+PirateOfTheSeas|10/26/15 11:48,PirateOfTheSeas,815733282,unknown,0.6604,,0,@arielrae618 -- hold it anymore and came inside of her.
+PirateOfTheSeas|10/26/15 11:48,PirateOfTheSeas,815734503,brand,0.6473,0.0,0,"@arielrae618 His thrust went faster and faster until his moving hips was a blur, pounding more and more inside of her until he couldn't --"
+RazaHussain101|6/9/12 14:09,RazaHussain101,815736154,brand,0.6553,0.0,0,"@zypisfy @Quran_truth that hath no sword, let him sell his garment, and buy one. Luke 22:36"
+RazaHussain101|6/9/12 14:09,RazaHussain101,815736806,unknown,0.6499,,0,"@zypisfy @Quran_truth Then said he (Jesus) unto them, But now, he that hath a purse, let him take it, and likewise his scrip: and he"
+Shamalamal|10/26/11 23:23,Shamalamal,815720109,male,0.6603,1.0,0,"New idea, scrub daddy in the shape of a halloween pumpkin. Write me a check."
+Shamalamal|10/26/11 23:23,Shamalamal,815727432,unknown,0.6796,,0,This fucking thing has done over $75 Million in retail sales. Why the fuck didn't I come up with it? https://t.co/xuVjdGi9u2
+TechBazar|7/18/10 12:23,TechBazar,815720286,brand,0.6467,0.0,0,TalkTalk's cyber attack piles on the pressure on financial targets - Reuters: Reuters TalkTalk'sÛ_ https://t.co/fAIx4KpY1w
+TechBazar|7/18/10 12:23,TechBazar,815720353,brand,0.6567,0.0,0,"The Surface Mini was real and 'awesome,' Microsoft's hardware guru confirms - PCWorld: PCWorldÛ_ https://t.co/fAIx4KpY1w"
+TechBazar|7/18/10 12:23,TechBazar,815720400,unknown,0.3505,,0,Facebook Inc Plan To Connect The World May Not Apply To India - Bidness ETC: Bidness ETCÛ_ https://t.co/fAIx4KpY1w
+TeeIsTheHellion|9/2/15 16:27,TeeIsTheHellion,815726387,unknown,0.6505,,0,... This is it. This is the decider. It is final. My mind is filthy. _Ù÷Ó_Ù_¦_Ù_ https://t.co/Wpa6NbRDxS
+TeeIsTheHellion|9/2/15 16:27,TeeIsTheHellion,815737388,female,1.0,1.0,0,@BleuLulu and I have jointly written a thesis on the art of cuddling. May I offer the link to our website? _Ù÷_ https://t.co/lske3aqN4r
+TenthDRWho|10/2/15 8:16,TenthDRWho,815720804,unknown,0.3514,,0,"@HisSavior_ The Doctor would shove his hands into his trousers pockets and look around. ""Knew it was the hair."" he mumbled to himself--"
+TenthDRWho|10/2/15 8:16,TenthDRWho,815733865,male,0.6995,1.0,0,"@HisSavior_ chip detective. Two thingies of chips please, good sir."" He said to the man behind the counter, putting the paper away and--"
+TenthDRWho|10/2/15 8:16,TenthDRWho,815737314,male,1.0,1.0,0,"@HisSavior_ The Doctor would follow behind, walking up to the counter and holding out his psychic paper to the man behind it. ""John Smith--"
+TheImitatingOne|9/21/15 10:47,TheImitatingOne,815722582,unknown,1.0,,0,"@LegriardOstelle -- then, his sight moved to the building she pointed at, ""there? Sure then."" It was a cafe, and there should probably a --"
+TheImitatingOne|9/21/15 10:47,TheImitatingOne,815727069,brand,0.3478,0.0,0,"@LegriardOstelle ""You sure about that?"" Len lifted his left eyebrow, looking at the way the woman next to him tightened the coat. But --"
+The_Sweeper999|4/24/15 0:58,The_Sweeper999,815720997,brand,0.6774,0.0,0,@ChantelleHxxx have u ever had 81 retweets Chantelle? @KravenMoor_Head
+The_Sweeper999|4/24/15 0:58,The_Sweeper999,815736839,unknown,0.6767,,0,@ChantelleHxxx @KravenMoor_Head why won't u do it then? It takes 1 minute to write his name on a fansign and tweet it in front of the clock
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815727207,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/saHrQEceF6
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815727301,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/OkSw29GBY6
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815727380,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/OiUnvb3OmT
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815727459,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/Wt3FlibkIZ
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815727520,brand,0.6879,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/CunFLB7mMz
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815727599,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/oLxIAKxNIB
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815727662,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/MXCDPrLtYF
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815727745,brand,0.6666,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/kq2jyk5VRW
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815727828,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/7Dp2ScdFwq
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815727893,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/UtKuc63HfB
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815727959,brand,0.6829,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/icTHBvcwat
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728019,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/FdWgpmXSX2
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728082,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/47WBxuz3o3
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728162,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/PMRXi9h5Fz
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728233,brand,0.6425,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/vLKzpoSPIf
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728316,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/JVMGGLhkwl
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728404,brand,0.6693,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/yxLnR74zTE
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728464,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/r1SsrLZgmh
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728525,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/Vhwfd8yxKc
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728606,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/w6PpxgyXBf
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728657,unknown,0.65,,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/giSkhh6Wmd
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728723,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/7jCUm81MJ9
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728786,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/VKwAFv3ba4
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728894,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/vmCNNPciKe
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815728972,brand,0.6624,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/e31Dvd0sDy
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815729038,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/dwaKUpyeWg
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815729107,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/Z98FEt2kM7
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815729185,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/XVSE7VPyYc
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815729268,brand,1.0,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/U3p8haeiGB
+TudoSobreQuase|8/24/15 14:19,TudoSobreQuase,815729342,brand,0.6741,0.0,0,https://t.co/miYAuiSOD0 like and subscribe to the channel https://t.co/FlnYGWAY7f
+VortexPv_P|2/24/14 13:34,VortexPv_P,815734061,male,0.337,1.0,0,1/2 hit kill and it's obvious with knock back on the hit  https://t.co/WDuDveOjOQ
+VortexPv_P|2/24/14 13:34,VortexPv_P,815736643,unknown,1.0,,0,The email won't work and also I recorded a hacker on promc that hasn't been banned I will send u a yt link it was a https://t.co/WDuDveOjOQ
+ajhughes23|10/26/15 13:11,ajhughes23,815733512,female,0.6674,1.0,0,How much you know about soda on the silver screen? See if you can get this trivia right: https://t.co/4PGoalcNLr #SilverScreenTrivia
+ajhughes23|10/26/15 13:11,ajhughes23,815736032,unknown,0.6414,,0,HereÛªs some scary to go with your Halloween. Check out #CokeChillers. Boo! https://t.co/xIwcUKimLk
+allah_the_pagan|9/2/15 12:26,allah_the_pagan,815726178,male,0.3416,1.0,0,@48THPOTUS nope!! They're still allowed to play!
+allah_the_pagan|9/2/15 12:26,allah_the_pagan,815735727,female,0.3561,1.0,0,"@riwired and only help out with supplies etc, u know where that will end up!!"
+andyhartleyuk|2/19/12 7:40,andyhartleyuk,815720610,male,1.0,1.0,0,"Kingfisher: kban2011 has added a photo to the pool:
+ https://t.co/IpcCX7zUDa"
+andyhartleyuk|2/19/12 7:40,andyhartleyuk,815720635,male,1.0,1.0,0,"Pied Wagtail: chrispenrice has added a photo to the pool:
+
+Pied Wagtail Morecambe Bay https://t.co/eQMjvhSlYn"
+andyhartleyuk|2/19/12 7:40,andyhartleyuk,815720674,male,0.3363,1.0,0,"Tenacious: woolyboy has added a photo to the pool:
+
+Blue tit....photographed at Wetlands Wildlife Trust, 
+Aru... https://t.co/m1HlSbRoh4"
+andyhartleyuk|2/19/12 7:40,andyhartleyuk,815720707,male,0.6708,1.0,0,"Starling: chrispenrice has added a photo to the pool:
+
+Starling Morecambe Bay https://t.co/k5eZMkJxWd"
+andyhartleyuk|2/19/12 7:40,andyhartleyuk,815720734,female,0.3448,1.0,0,"Robin: George Findlay has added a photo to the pool:
+
+singing Robin . https://t.co/FZ2i5hcqLm"
+art_control|3/24/09 20:52,art_control,815728688,unknown,0.6624,,0,The droids you're looking for... https://t.co/ApfEXgwDa2 #Comics
+art_control|3/24/09 20:52,art_control,815754614,brand,0.554,0.0,0,The droids you're looking for... https://t.co/ApfEXgwDa2 #Comics
+babewharry|1/24/14 14:09,babewharry,815719905,male,0.3282,1.0,0,"@Harry_Styles the words will never be strong enough for describe all the love, respect and admiration i feel for you...follow me pls? x8345"
+babewharry|1/24/14 14:09,babewharry,815720752,unknown,0.3582,,0,"@Harry_Styles the words will never be strong enough for describe all the love, respect and admiration i feel for you...follow me pls? x8343"
+babewharry|1/24/14 14:09,babewharry,815721678,male,1.0,1.0,0,"@Harry_Styles the words will never be strong enough for describe all the love, respect and admiration i feel for you...follow me pls? x8342"
+babewharry|1/24/14 14:09,babewharry,815726379,male,1.0,1.0,0,"@Harry_Styles the words will never be strong enough for describe all the love, respect and admiration i feel for you...follow me pls? x8340"
+babewharry|1/24/14 14:09,babewharry,815727496,male,1.0,1.0,0,"@Harry_Styles the words will never be strong enough for describe all the love, respect and admiration i feel for you...follow me pls? x8339"
+babewharry|1/24/14 14:09,babewharry,815728515,male,0.6487,1.0,0,"@Harry_Styles the words will never be strong enough for describe all the love, respect and admiration i feel for you...follow me pls? x8338"
+beginnerquad|10/19/15 4:31,beginnerquad,815722258,unknown,1.0,,0,The Gospel Of Greed: How Sardar Biglari Paid Himself $34 Million Despite Lousy Fund Returns: Documents obtaine... https://t.co/J9F2Kk2lOu
+beginnerquad|10/19/15 4:31,beginnerquad,815729099,brand,0.659,0.0,0,"Donna KaranÛªs Challenging Second Act: The iconic fashion designer on why leaving her namesake label was ""heart... https://t.co/7CBW6WBKiu"
+bgmplus|10/30/10 17:57,bgmplus,815724842,brand,1.0,0.0,0,"Destiny's Halloween event adds masks, quests, and the Thriller dance: 
+                        700 silver for ...... https://t.co/eXUOJw0oLK"
+bgmplus|10/30/10 17:57,bgmplus,815726124,brand,0.6354,0.0,0,The Division's blizzards will make it harder to aim and easier to sneak:  https://t.co/EEvwAseyDv https://t.co/TqnXLn1Mzh
+bgmplus|10/30/10 17:57,bgmplus,815727103,unknown,1.0,,0,"Destiny's Halloween event adds masks, quests, and the Thriller dance: 
+                        700 silver for ... https://t.co/k8SOlTih0c"
+bgmplus|10/30/10 17:57,bgmplus,815727172,brand,1.0,0.0,0,The Division's blizzards will make it harder to aim and easier to sneak:  https://t.co/EEvwAseyDv
+blefuscu74|2/11/09 16:51,blefuscu74,815736065,brand,1.0,0.0,0,"@tfeditor1892 @TheMightySteve and even if it turns out his guilty, our fans are singing about sexual abuse of a child."
+blefuscu74|2/11/09 16:51,blefuscu74,815739074,unknown,0.644,,0,@tfeditor1892 @TheMightySteve of course he is. IÛªm totally against the chants used against him. They are classless and tbh sick.
+chaliceoftears|6/24/15 13:56,chaliceoftears,815726232,unknown,0.6972,,0,@LatterDayOtaku @somnia_c we mostly discussed the parenting fluff though not the children
+chaliceoftears|6/24/15 13:56,chaliceoftears,815732561,male,0.3571,1.0,0,@sarusasshiko then why don't you ship Otori and Yuta
+conors026|12/18/10 4:09,conors026,815734942,male,0.6662,1.0,0,@xTayThePrincess ikr I'll just get it a body and send it your way
+conors026|12/18/10 4:09,conors026,815737603,unknown,0.3498,,0,I'm being spammed by my Bot and Emmas
+cutestcurly|1/1/13 11:06,cutestcurly,815720874,male,0.6666,1.0,0,"@Harry_Styles hi H! my birthday is in 10 days and your follow would be the greatest gift of all! please make it happen? all the love_ÙÕÎ140,657"
+cutestcurly|1/1/13 11:06,cutestcurly,815721584,female,1.0,1.0,0,"@Harry_Styles hi H! my birthday is in 10 days and your follow would be the greatest gift of all! please make it happen? all the love_ÙÕÎ140,656"
+cutestcurly|1/1/13 11:06,cutestcurly,815722219,male,0.3472,1.0,0,"@Harry_Styles hi H! my birthday is in 10 days and your follow would be the greatest gift of all! please make it happen? all the love_ÙÕÎ140,655"
+cutestcurly|1/1/13 11:06,cutestcurly,815722853,female,0.6787,1.0,0,"@Harry_Styles hi H! my birthday is in 10 days and your follow would be the greatest gift of all! please make it happen? all the love_ÙÕÎ140,654"
+cutestcurly|1/1/13 11:06,cutestcurly,815723484,female,0.6656,1.0,0,"@Harry_Styles hi H! my birthday is in 10 days and your follow would be the greatest gift of all! please make it happen? all the love_ÙÕÎ140,653"
+cutestcurly|1/1/13 11:06,cutestcurly,815724236,female,1.0,1.0,0,"@Harry_Styles hi H! my birthday is in 10 days and your follow would be the greatest gift of all! please make it happen? all the love_ÙÕÎ140,652"
+cutestcurly|1/1/13 11:06,cutestcurly,815725077,female,0.3631,1.0,0,"@Harry_Styles hi H! my birthday is in 10 days and your follow would be the greatest gift of all! please make it happen? all the love_ÙÕÎ140,651"
+cutestcurly|1/1/13 11:06,cutestcurly,815726047,female,0.6882,1.0,0,"@Harry_Styles hi H! my birthday is in 10 days and your follow would be the greatest gift of all! please make it happen? all the love_ÙÕÎ140,650"
+cutestcurly|1/1/13 11:06,cutestcurly,815728773,male,0.6684,1.0,0,"@Harry_Styles hi H! my birthday is in 10 days and your follow would be the greatest gift of all! please make it happen? all the love_ÙÕÎ140,649"
+derekbanes|4/18/13 2:51,derekbanes,815730977,female,0.6728,1.0,0,"@derekbanes i will never EVER bring those times back, i always cried alone and panicked alone when i cant get a thing right"
+derekbanes|4/18/13 2:51,derekbanes,815733832,male,0.6543,1.0,0,but what i just really hate is the fact that they left me at 13 yrs old to do every homework and study every test on my own
+diapphire|11/15/12 10:57,diapphire,815733565,unknown,0.6631,,0,"@_sksa Since I though, and I was right, that it would be easier to reread a book I already knew"
+diapphire|11/15/12 10:57,diapphire,815735914,brand,0.3512,0.0,0,@_sksa I read it in French the first time (my English was not very good at that time) and it was the first novel I read in English
+dk33per|7/23/10 5:08,dk33per,815732963,male,0.6747,1.0,0,"When #Halo3 launched at the BFI London, MS held a live Halo match between celebs, inc' LL Cool J and Carmen Electra https://t.co/vMch4uBK8l"
+dk33per|7/23/10 5:08,dk33per,815738344,unknown,0.338,,0,"It's at cool venue (the @RoundhouseLDN) for starters, and its Xbox tournament involves actual Halo players. #Halo5"
+doingerins|7/11/15 12:48,doingerins,815719897,male,1.0,1.0,0,wait no this is the last episode of futurama oh no
+doingerins|7/11/15 12:48,doingerins,815733816,female,0.6666,1.0,0,i wish i was able to get a proper and nice pic of it but the building was lopsided
+easy_e93|11/14/10 9:56,easy_e93,815726575,female,0.6902,1.0,0,@GreniusPrime @TiricoHairline that was the magic of Patrice. It never felt like a planned set it always felt like he was just talking.
+easy_e93|11/14/10 9:56,easy_e93,815736775,male,1.0,1.0,0,We dont develop courage by being happy everyday we develop it by surviving difficult times and challenging adversity https://t.co/sm0HfRkrrf
+evelynbradburyv|9/28/15 22:38,evelynbradburyv,815723572,unknown,0.3354,,0,DENNIS THE MENACE GIANT VACATION SPECIAL 1 5.0 VGF SUMMER 1955 STANDARD COMICS https://t.co/qe8nPMzdRS https://t.co/Uv9Meh0g6C
+evelynbradburyv|9/28/15 22:38,evelynbradburyv,815724504,female,1.0,1.0,0,MARVEL PRESENTS 6 9.4 NM 1976 Guardians of the Galaxy WHITE PAPER HIGH GRADE https://t.co/Wzj3qrwBsB https://t.co/U50bnL9avs
+fishballxz|6/17/13 6:09,fishballxz,815720403,male,0.6665,1.0,0,"Oh it's u
+@onedirection Artist Of the year #AMAs
+@onedirection Favorite Duo or Group - Pop/Rock #AMAs"
+fishballxz|6/17/13 6:09,fishballxz,815722122,male,0.6803,1.0,0,"U think I'm textin? Na, I'm just tweetin
+@onedirection Artist Of the year #AMAs
+@onedirection Favorite Duo or Group - Pop/Rock #AMAs"
+fishballxz|6/17/13 6:09,fishballxz,815727878,female,0.3615,1.0,0,"And I haven't went to sleep yet
+@onedirection Artist Of the year #AMAs
+@onedirection Favorite Duo or Group - Pop/Rock #AMAs"
+flowrcrownlouis|11/8/12 14:38,flowrcrownlouis,815733128,unknown,0.6572,,0,but now i want to improve myself and be hot like them.
+flowrcrownlouis|11/8/12 14:38,flowrcrownlouis,815737370,male,0.6289,1.0,0,they were making plans on going to the gym and they invited me and i choked on my drink like i don't go there.
+freedomforthwin|3/10/11 20:24,freedomforthwin,815732151,unknown,0.3389,,0,"Please don't use the phrase ""hard worker"" it's offensive to slaves and moms https://t.co/YW4scEPEet"
+freedomforthwin|3/10/11 20:24,freedomforthwin,815732268,brand,1.0,0.0,0,"If Sweden and Germany Became US States, They Would be Among the Poorest States https://t.co/d93lywQscH"
+gauravdotme|6/23/11 5:14,gauravdotme,815730872,unknown,0.6644,,0,"Windows 8.1 Running PIPO X8 Mini TV BOX Review, Specs and Price https://t.co/NnAmMTghZt #review"
+gauravdotme|6/23/11 5:14,gauravdotme,815730951,brand,1.0,0.0,0,Elephone P8000 with 4165mAh battery : Review and Specifications https://t.co/PUoWXjYhsv #review
+gauravdotme|6/23/11 5:14,gauravdotme,815730995,unknown,0.6769,,0,How to Root LG G Flex 2 and other LG devices https://t.co/XkKuEL8NUp #rooting
+handmade|6/17/08 11:38,handmade,815728696,unknown,0.6711,,0,Video: The Auction BuyerÛªs Kiss of DeathÛ_ I just paid $1100 dollars for a unit that I have to take straight... https://t.co/pl7m5WzMAM
+handmade|6/17/08 11:38,handmade,815728960,brand,1.0,0.0,0,The Auction Buyer's Kiss of Death... I just paid $1100 dollars for a unitÛ_ https://t.co/IycDhHOWJ6
+horannotyou|3/29/15 16:49,horannotyou,815719570,male,0.6954,1.0,0,wles soa maravilhosp d+ p se d verdads @onedirection Artist Of The Year #AMAs
+horannotyou|3/29/15 16:49,horannotyou,815727362,unknown,0.3509,,0,oq ta con teseno c a mjnhs internet @onedirection Artist Of The Year #AMAs
+idkbria|3/16/10 1:06,idkbria,815730460,unknown,0.6685,,0,sudden urge to go outside and chase the sunset
+idkbria|3/16/10 1:06,idkbria,815732976,female,0.3507,1.0,0,you live a bland and lonely life and i predict that you will remain single forever with 10082922 cats https://t.co/TXcH0CyILo
+irishgoespop|5/1/10 12:21,irishgoespop,815736033,unknown,0.6494,,0,You hover over the bold letters and it shows the original website _ÙÕÛ
+irishgoespop|5/1/10 12:21,irishgoespop,815738632,brand,0.6688,0.0,0,Y'all... Someone copy pasted an answer onto the online course and left the original links in the writing _ÙÕÛ
+irl_mahoushoujo|8/21/13 9:11,irl_mahoushoujo,815733878,male,0.3373,1.0,0,"when the anime comes out im sure i'll be able to get a cute icon, but that's not for a while and this picture is towards the end so"
+irl_mahoushoujo|8/21/13 9:11,irl_mahoushoujo,815737416,unknown,1.0,,0,I really wish I could find a colored version of my icon. just the black and white is not enough.
+isimplytessa|12/17/12 14:33,isimplytessa,815720651,unknown,0.6554,,0,"centoundici
+@onedirection Artist Of The Year #AMAs"
+isimplytessa|12/17/12 14:33,isimplytessa,815722896,male,1.0,1.0,0,"centodieci
+@onedirection Artist Of The Year #AMAs"
+isimplytessa|12/17/12 14:33,isimplytessa,815726061,female,1.0,1.0,0,"centonove
+@onedirection Artist Of The Year #AMAs"
+isimplytessa|12/17/12 14:33,isimplytessa,815729287,male,0.3448,1.0,0,"centotto
+@onedirection Artist Of The Year #AMAs"
+johnIaurens|10/3/13 14:28,johnIaurens,815721406,male,1.0,1.0,0,"imagine hamilton but all the dudes are played by cute girls,"
+johnIaurens|10/3/13 14:28,johnIaurens,815737492,female,0.6455,1.0,0,"but Tesla, who also spent a winter digging ditches and crying, had the rage and determination"
+kavatzatron|9/24/15 9:29,kavatzatron,815725137,brand,0.3391,0.0,0,"Found a Transponder Snail!
+Candid shots of the Straw Hats on their new ship, Merry!
+#TreCru https://t.co/ybFTDg1o8G"
+kavatzatron|9/24/15 9:29,kavatzatron,815728758,unknown,0.6679,,0,"Found a Transponder Snail!
+Get an inside look at the ever-cheerful Buggy Pirates!
+#TreCru https://t.co/mtV2NxZDdp"
+krs21da|6/24/13 21:38,krs21da,815735553,brand,1.0,0.0,0,One StateÛªs Struggle to Make Ends Meet: Why Illinois Is Without a Budget https://t.co/DC8LfzBMmk
+krs21da|6/24/13 21:38,krs21da,815735579,unknown,0.6734,,0,One StateÛªs Struggle to Make Ends Meet: Why Illinois Is Without a Budget https://t.co/H9vVZMkDkW
+krs21da|6/24/13 21:38,krs21da,815738448,unknown,0.6768,,0,Tesla v. tree: Who wins? https://t.co/9hzvGWoRay
+kyungsmoI|5/5/14 14:54,kyungsmoI,815730500,male,0.6615,1.0,0,you talk to them and notice the members of their group are acting weird and your bias is blushing. you then find out they're in love with u
+kyungsmoI|5/5/14 14:54,kyungsmoI,815738232,female,0.6589,1.0,0,"and they end up really really enjoying your conversations. on their next show in your city, they ask you to meet them personally backstage."
+leahanneta|11/7/13 19:29,leahanneta,815722721,brand,1.0,0.0,0,Volume Alert - FTNT 34.40 Fortinet Inc $FTNT Hit a high today of 35.24 Closing the day 14:20 at 34.40 -0.51 -1 https://t.co/vwuDlYXhuM
+leahanneta|11/7/13 19:29,leahanneta,815728173,unknown,0.3359,,0,Volume Alert - CRUS 29.15 Cirrus Logic $CRUS Hit a high today of 33.00 Closing the day 14:20 at 29.15 -4.59 -1 https://t.co/lVXJdjpgRR
+lesbalren|8/26/10 14:54,lesbalren,815721842,female,0.6541,1.0,0,"I'll go, I'll go and then you go, you go out and spill the truth"
+lesbalren|8/26/10 14:54,lesbalren,815728211,unknown,0.341,,0,i'll take every single piece of the blame if you want me to
+lwt_bae|10/25/14 14:31,lwt_bae,815729697,male,0.6628,1.0,0,"Hi @Harry_Styles _Ù÷
+@sparksflylarry 's birthday is today!! _Ù_â
+so can you make her dream come true,
+and follow her? Pls, she loves you _ÙÕ¥ 
+-192"
+lwt_bae|10/25/14 14:31,lwt_bae,815730193,female,0.3474,1.0,0,"Hi @Harry_Styles _Ù÷
+@sparksflylarry 's birthday is today!! _Ù_â
+so can you make her dream come true,
+and follow her? Pls, she loves you _ÙÕ¥ 
+-191"
+lwt_bae|10/25/14 14:31,lwt_bae,815730677,female,0.663,1.0,0,"Hi @Harry_Styles _Ù÷
+@sparksflylarry 's birthday is today!! _Ù_â
+so can you make her dream come true,
+and follow her? Pls, she loves you _ÙÕ¥ 
+-190"
+lwt_bae|10/25/14 14:31,lwt_bae,815731054,female,0.3572,1.0,0,"Hi @Harry_Styles _Ù÷
+@sparksflylarry 's birthday is today!! _Ù_â
+so can you make her dream come true,
+and follow her? Pls, she loves you _ÙÕ¥ 
+-189"
+lwt_bae|10/25/14 14:31,lwt_bae,815731446,male,0.6637,1.0,0,"Hi @Harry_Styles _Ù÷
+@sparksflylarry 's birthday is today!! _Ù_â
+so can you make her dream come true,
+and follow her? Pls, she loves you _ÙÕ¥ 
+-188"
+lwt_bae|10/25/14 14:31,lwt_bae,815731860,female,0.3501,1.0,0,"Hi @Harry_Styles _Ù÷
+@sparksflylarry 's birthday is today!! _Ù_â
+so can you make her dream come true,
+and follow her? Pls, she loves you _ÙÕ¥ 
+-187"
+lwt_bae|10/25/14 14:31,lwt_bae,815732555,female,0.3428,1.0,0,"Hi @Harry_Styles _Ù÷
+@sparksflylarry 's birthday is today!! _Ù_â
+so can you make her dream come true,
+and follow her? Pls, she loves you _ÙÕ¥ 
+-186"
+lwt_bae|10/25/14 14:31,lwt_bae,815733018,male,1.0,1.0,0,"Hi @Harry_Styles _Ù÷
+@sparksflylarry 's birthday is today!! _Ù_â
+so can you make her dream come true,
+and follow her? Pls, she loves you _ÙÕ¥ 
+-185"
+lwt_bae|10/25/14 14:31,lwt_bae,815736306,male,0.6488,1.0,0,"Hi @Harry_Styles _Ù÷
+@sparksflylarry 's birthday is today!! _Ù_â
+so can you make her dream come true,
+and follow her? Pls, she loves you _ÙÕ¥ 
+-184"
+lwt_bae|10/25/14 14:31,lwt_bae,815736774,female,0.3479,1.0,0,"Hi @Harry_Styles _Ù÷
+@sparksflylarry 's birthday is today!! _Ù_â
+so can you make her dream come true,
+and follow her? Pls, she loves you _ÙÕ¥ 
+-183"
+maiagillian|3/25/13 6:17,maiagillian,815729395,unknown,0.6676,,0,"@Harry_Styles
+
+I like causing trouble up in hotel rooms
+and having secret little rendez vous
+So I'm perfect for you_
+
+Follow me?÷È
+574"
+maiagillian|3/25/13 6:17,maiagillian,815730842,male,0.6619,1.0,0,"@Harry_Styles
+
+I like causing trouble up in hotel rooms
+and having secret little rendez vous
+So I'm perfect for you_
+
+Follow me?÷È
+573"
+maiagillian|3/25/13 6:17,maiagillian,815732311,unknown,0.6735,,0,"@Harry_Styles
+
+I like causing trouble up in hotel rooms
+and having secret little rendez vous
+So I'm perfect for you_
+
+Follow me?÷È
+572"
+maiagillian|3/25/13 6:17,maiagillian,815733799,female,0.338,1.0,0,"@Harry_Styles
+
+I like causing trouble up in hotel rooms
+and having secret little rendez vous
+So I'm perfect for you_
+
+Follow me?÷È
+571"
+maiagillian|3/25/13 6:17,maiagillian,815735073,female,0.337,1.0,0,"@Harry_Styles
+
+I like causing trouble up in hotel rooms
+and having secret little rendez vous
+So I'm perfect for you_
+
+Follow me?÷È
+570"
+mari_malik23|1/15/14 3:01,mari_malik23,815735991,unknown,0.6604,,0,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/epx2joVOUM and Vote for your favorite!  #AMAs #OneDirection_Ù÷ã
+mari_malik23|1/15/14 3:01,mari_malik23,815737644,male,0.6739,1.0,0,I_Ù÷ª Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/epx2joVOUM and Vote for your favorite!  #AMAs #OneDirection
+melodisthes|5/20/14 14:35,melodisthes,815719868,female,0.341,1.0,0,"@Harry_Styles
+your beautiful voice never
+fails to amaze me. i'm so
+excited for the new album
+mind following me please?
+I love you_ÙÄ_Ùâ_ÙÛÓ171.065"
+melodisthes|5/20/14 14:35,melodisthes,815720579,male,0.6532,1.0,0,"@Harry_Styles
+your beautiful voice never
+fails to amaze me. i'm so
+excited for the new album
+mind following me please?
+I love you_ÙÄ_Ùâ_ÙÛÓ171.064"
+melodisthes|5/20/14 14:35,melodisthes,815721374,female,0.6801,1.0,0,"@Harry_Styles
+your beautiful voice never
+fails to amaze me. i'm so
+excited for the new album
+mind following me please?
+I love you_ÙÄ_Ùâ_ÙÛÓ171.063"
+melodisthes|5/20/14 14:35,melodisthes,815722145,male,0.6672,1.0,0,"@Harry_Styles
+your beautiful voice never
+fails to amaze me. i'm so
+excited for the new album
+mind following me please?
+I love you_ÙÄ_Ùâ_ÙÛÓ171.062"
+melodisthes|5/20/14 14:35,melodisthes,815722872,female,0.6722,1.0,0,"@Harry_Styles
+your beautiful voice never
+fails to amaze me. i'm so
+excited for the new album
+mind following me please?
+I love you_ÙÄ_Ùâ_ÙÛÓ171.06"
+melodisthes|5/20/14 14:35,melodisthes,815724227,unknown,0.6743,,0,"@Harry_Styles
+your beautiful voice never
+fails to amaze me. i'm so
+excited for the new album
+mind following me please?
+I love you_ÙÄ_Ùâ_ÙÛÓ171.060"
+melodisthes|5/20/14 14:35,melodisthes,815725213,male,1.0,1.0,0,"@Harry_Styles
+your beautiful voice never
+fails to amaze me. i'm so
+excited for the new album
+mind following me please?
+I love you_ÙÄ_Ùâ_ÙÛÓ171.059"
+melodisthes|5/20/14 14:35,melodisthes,815726375,female,0.6658,1.0,0,"@Harry_Styles
+your beautiful voice never
+fails to amaze me. i'm so
+excited for the new album
+mind following me please?
+I love you_ÙÄ_Ùâ_ÙÛÓ171.058"
+melodisthes|5/20/14 14:35,melodisthes,815727453,female,0.6702,1.0,0,"@Harry_Styles
+your beautiful voice never
+fails to amaze me. i'm so
+excited for the new album
+mind following me please?
+I love you_ÙÄ_Ùâ_ÙÛÓ171.057"
+melodisthes|5/20/14 14:35,melodisthes,815728439,male,1.0,1.0,0,"@Harry_Styles
+your beautiful voice never
+fails to amaze me. i'm so
+excited for the new album
+mind following me please?
+I love you_ÙÄ_Ùâ_ÙÛÓ171.056"
+melodisthes|5/20/14 14:35,melodisthes,815729330,male,1.0,1.0,0,"@Harry_Styles
+your beautiful voice never
+fails to amaze me. i'm so
+excited for the new album
+mind following me please?
+I love you_ÙÄ_Ùâ_ÙÛÓ171.055"
+obesoroy2|4/7/15 13:09,obesoroy2,815730350,brand,1.0,0.0,0,1864-1873 Complete Two Cents Book and Partial 1865-1889 3 Cent Nickel Book https://t.co/yGAKvSJESD https://t.co/GEcOPgMg0q
+obesoroy2|4/7/15 13:09,obesoroy2,815730567,unknown,0.3438,,0,1872 A Collection of Curious and Interesting Epitaphs Volume 2 F T Cansick First https://t.co/v0ktaLynrA https://t.co/gK1H1s6k9U
+or_shamai|10/10/14 7:02,or_shamai,815720550,unknown,0.6797,,0,"@Harry_Styles Hi H
+I love you very much. You're amazing.
+Can you follow me please? It's just 2 seconds.. ÏÎ
+All the love xx _
+Û¢8,183"
+or_shamai|10/10/14 7:02,or_shamai,815725187,unknown,0.3546,,0,"@Harry_Styles Hi H
+I love you very much. You're amazing.
+Can you follow me please? It's just 2 seconds.. ÏÎ
+All the love xx _
+Û¢8,182"
+or_shamai|10/10/14 7:02,or_shamai,815729272,female,0.6587,1.0,0,"@Harry_Styles Hi H
+I love you very much. You're amazing.
+Can you follow me please? It's just 2 seconds.. ÏÎ
+All the love xx _
+Û¢8,181"
+quen4_liz|9/20/15 3:32,quen4_liz,815720363,female,0.6666,1.0,0,"EVERYDAYDAYILOVEYOU Forevermore
+Weep with the heroineÛªs desperation.
+
+#PushAwardsLizQuens"
+quen4_liz|9/20/15 3:32,quen4_liz,815722339,unknown,0.3605,,0,"EVERYDAYDAYILOVEYOU Forevermore
+Ride the edge of my seat with the heroÛ_
+
+#PushAwardsLizQuens"
+retweetguybot|9/2/15 13:08,retweetguybot,815735924,brand,0.6513,0.0,0,Click &amp; Collect all the tech you need this  from  PC's to  and Toys    https://t.co/FHHSbJIJdd
+retweetguybot|9/2/15 13:08,retweetguybot,815735953,unknown,0.6601,,0,"Fascinating look ahead to the future of PC gaming via  from  and !
+ 
+ https://t.co/t1ydMETGuh"
+samisimps|3/13/09 4:12,samisimps,815737373,unknown,0.6617,,0,Just earned 20 bounts for being fit and healthy. Start earning now #bounts #JoinThePros
+samisimps|3/13/09 4:12,samisimps,815737636,male,0.6578,1.0,0,Just earned 10 bounts for being fit and healthy. Start earning now #bounts #JoinThePros
+sapphiremounty|2/16/15 14:32,sapphiremounty,815725069,unknown,0.6594,,0,elliehsheltonx : Paradise_Áü @ THE WAREHOUSE PROJECT https://t.co/RpcRbripqC (via Twitter https://t.co/oaIpka450n)
+sapphiremounty|2/16/15 14:32,sapphiremounty,815725237,brand,0.6721,0.0,0,jackm1892 : Sunderland do a great pie. Immensely impressed by the pies. 10 x better than ours. (via Twitter https://t.co/sCWH2ecSiV)
+taehyungstars|7/18/12 12:30,taehyungstars,815727037,male,0.6671,1.0,0,"people loooove coming at me for telling the truth about their diets,, im pretty nice about it all the time but??"
+taehyungstars|7/18/12 12:30,taehyungstars,815738215,unknown,0.6584,,0,so dont jump on me and attack me and try and make fun of me before youve even done any fucking research whatsoever
+the_dirty_ho|3/6/11 12:30,the_dirty_ho,815721732,brand,0.6679,0.0,0,@Yorkie1200 @NicolaSturgeon what is the point of you?
+the_dirty_ho|3/6/11 12:30,the_dirty_ho,815726042,unknown,0.3351,,0,"@Yorkie1200 @NicolaSturgeon if it is the case, think they've underestimated how toxic it will be for them as well. It begs the question -"
+thenipahhut|6/7/10 18:17,thenipahhut,815735399,brand,0.6809,0.0,0,@Raurik @ultradavid because im sure something weirds gunna be found out and i dont want a repeat of t5 on ps2
+thenipahhut|6/7/10 18:17,thenipahhut,815737540,unknown,0.6653,,0,"@Raurik @ultradavid sfv will prob come out before t7 and thats fine id rather wait for release of the ""updated"" t7 that tk always does"
+trice_bhelle|10/19/15 23:43,trice_bhelle,815720355,unknown,0.689,,0,"EVERYDAYDAYILOVEYOU Forevermore
+Weep with the heroineÛªs desperation.
+
+#PushAwardsLizQuens"
+trice_bhelle|10/19/15 23:43,trice_bhelle,815722341,brand,0.6801,0.0,0,"EVERYDAYDAYILOVEYOU Forevermore
+Ride the edge of my seat with the heroÛ_
+
+#PushAwardsLizQuens"
+uxmakemestrong|9/20/13 14:31,uxmakemestrong,815735221,female,1.0,1.0,0,I Just Voted for @onedirection for #ArtistOfTheYear Go Here https://t.co/f4APXIpLCR and Vote for your favorite!  #AMAs #OneDirection
+uxmakemestrong|9/20/13 14:31,uxmakemestrong,815738865,unknown,0.334,,0,I Just Voted for @selenagomez for #ArtistOfTheYear Go Here https://t.co/f4APXIpLCR and Vote for your favorite!  #AMAs #SelenaGomez
+with_images|5/21/15 22:39,with_images,815726854,brand,1.0,0.0,0,"Just as the soul fills the body, so God fills the world. Just as the soul bears   - Read full quote @ https://t.co/iwYiHLBPQ2 #quote"
+with_images|5/21/15 22:39,with_images,815739176,unknown,0.6561,,0,I have had the good fortune to experience both the limelight and the traffic lig  - Read full quote @ https://t.co/2sJOcR5cQr #quote

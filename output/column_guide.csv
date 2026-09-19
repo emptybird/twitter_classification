@@ -1,0 +1,56 @@
+column,dtype,missing,n_unique,description
+unit_id,int64,0,19953,"CrowdFlower row id. Unique per row, NOT per account."
+name,object,0,18715,Twitter screen name. Identifier only - never use as a feature.
+account_id,object,0,18715,name + created. The true account key. Split on this.
+n_rows_for_account,int64,0,17,How many rows this account has in the file.
+gender,object,0,4,Raw annotator label: female / male / brand / unknown. LABEL - never a feature.
+gender_confidence,float64,0,922,"Annotator agreement, 0-1. Low = candidate mislabel. Label metadata - never a feature (leaks the label)."
+is_human,float64,1117,2,"1 = female or male, 0 = brand, NaN = unknown. The target."
+label_known,int64,0,2,1 when is_human is not missing. Filter only - never a feature.
+label_conflict_human_brand,int64,0,2,1 when this account is labelled both human and brand. Derived from labels - never a feature.
+label_conflict_gender,int64,0,2,1 when this account's rows disagree on gender at all. Derived from labels - never a feature.
+fav_number,int64,0,6760,"Favourites received. Raw, heavily right-skewed."
+log_fav_number,float64,0,6760,log1p of fav_number. Use for distance-based models.
+retweet_count,int64,0,22,Retweets of the sampled tweet. 0 for about 97% of rows.
+log_retweet_count,float64,0,22,log1p of retweet_count. Use for distance-based models.
+tweet_count,int64,0,14231,"Total tweets posted. Raw, heavily right-skewed."
+log_tweet_count,float64,0,14231,log1p of tweet_count. Use for distance-based models.
+has_retweets,int64,0,2,1 when retweet_count > 0. Use instead of the raw count.
+account_age_days,int64,0,2832,Days between account creation and the capture date.
+log_account_age_days,float64,0,2832,log1p of account_age_days. Use for distance-based models.
+tweets_per_day,float64,0,18703,"tweet_count / account_age_days. A rate, not a total."
+favs_per_day,float64,0,15102,fav_number / account_age_days.
+link_color_hex,object,2,2984,"Repaired six-digit hex, or NaN if unusable."
+link_color_r,float64,2,256,"Red / green / blue component, 0-255."
+link_color_g,float64,2,247,"Red / green / blue component, 0-255."
+link_color_b,float64,2,256,"Red / green / blue component, 0-255."
+link_color_brightness,float64,2,2966,"0.299R + 0.587G + 0.114B. Perceived lightness, 0-255."
+link_color_status,object,0,5,ok / padded / sci_repaired / zero_suspect / invalid.
+link_color_usable,int64,0,2,0 when the colour could not be repaired.
+link_color_zero_suspect,int64,0,2,"1 when the raw value was the literal '0'. Its RGB is 0,0,0 but may not be real black - exclude or test both ways."
+sidebar_color_hex,object,0,559,"Repaired six-digit hex, or NaN if unusable."
+sidebar_color_r,int64,0,208,"Red / green / blue component, 0-255."
+sidebar_color_g,int64,0,217,"Red / green / blue component, 0-255."
+sidebar_color_b,int64,0,207,"Red / green / blue component, 0-255."
+sidebar_color_brightness,float64,0,559,"0.299R + 0.587G + 0.114B. Perceived lightness, 0-255."
+sidebar_color_status,object,0,4,ok / padded / sci_repaired / zero_suspect / invalid.
+sidebar_color_usable,int64,0,1,0 when the colour could not be repaired.
+sidebar_color_zero_suspect,int64,0,2,"1 when the raw value was the literal '0'. Its RGB is 0,0,0 but may not be real black - exclude or test both ways."
+description_raw,object,0,15074,Profile description exactly as in the source file.
+description_clean,object,0,14837,"Unescaped, URL/@/# tokenised, mojibake removed."
+has_description,int64,0,2,1 when description is present and non-empty.
+description_len,int64,0,213,Character length of the CLEANED text.
+description_word_count,int64,0,39,Word count of the CLEANED text.
+description_n_urls,int64,0,8,Number of URLs in the raw text.
+description_n_mentions,int64,0,10,Number of @mentions in the raw text.
+description_n_hashtags,int64,0,18,Number of #hashtags in the raw text.
+description_n_mojibake,int64,0,32,Number of corrupted non-ASCII runs found in the raw text.
+tweet_raw,object,0,18315,Sampled tweet exactly as in the source file.
+tweet_clean,object,0,17458,Cleaned tweet. Use this for TF-IDF / bag of words.
+has_tweet,int64,0,1,1 when tweet is present and non-empty.
+tweet_len,int64,0,163,Character length of the CLEANED text.
+tweet_word_count,int64,0,34,Word count of the CLEANED text.
+tweet_n_urls,int64,0,5,Number of URLs in the raw text.
+tweet_n_mentions,int64,0,10,Number of @mentions in the raw text.
+tweet_n_hashtags,int64,0,13,Number of #hashtags in the raw text.
+tweet_n_mojibake,int64,0,11,Number of corrupted non-ASCII runs found in the raw text.
