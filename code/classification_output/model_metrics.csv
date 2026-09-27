@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc
+Naive Bayes,0.889,0.889,0.815,0.8426,0.9283
+Logistic Regression,0.874,0.8323,0.8591,0.8438,0.9389
+Linear SVM,0.8857,0.8591,0.8389,0.8482,0.9365
