@@ -1,0 +1,6 @@
+input,linkage,inversions,sizes,largest_pct,smallest_pct,ari_vs_kmeans,ari_vs_som_hier
+352 SOM prototypes,single,0,12659/3454/2483/119,67.6,0.6,0.183,
+352 SOM prototypes,complete,0,12106/3160/2750/699,64.7,3.7,0.422,
+352 SOM prototypes,average,0,11775/3458/2512/970,62.9,5.2,0.212,
+352 SOM prototypes,centroid,17,11653/3163/2911/988,62.3,5.3,0.238,
+2999-account sample,complete,0,2493/367/81/58,83.1,1.9,0.011,0.052

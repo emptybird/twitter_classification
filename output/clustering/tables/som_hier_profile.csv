@@ -1,0 +1,5 @@
+method,cluster,n,pct_accounts,pct_human,pct_brand,pct_unknown,brand_share_conf1,median_favourites,median_tweets,median_age_days,pct_default_link,pct_default_sidebar,pct_description,pct_tweet_url,pct_tweet_hashtag
+som_complete,1,3160,16.9,71.1,24.4,4.5,0.232,1244.5,14190.0,1509.5,0.0,4.1,93.6,42.2,12.8
+som_complete,2,12106,64.7,70.2,25.6,4.2,0.24,791.0,9407.5,1205.0,52.1,45.1,97.4,37.4,23.3
+som_complete,3,699,3.7,55.5,34.9,9.6,0.363,4.0,96.0,14.0,75.5,74.8,67.7,38.5,22.2
+som_complete,4,2750,14.7,41.2,47.3,11.5,0.421,0.0,36586.0,490.0,88.1,87.0,0.0,17.9,8.5

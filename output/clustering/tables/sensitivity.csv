@@ -1,0 +1,4 @@
+variant,accounts,silhouette,smallest_cluster_pct,ari_vs_main
+views not equalised (plain z-score),18715,0.212,16.1,0.442
+raw counts instead of log1p,18715,0.248,14.6,0.485
+'0' colour accounts removed,14822,0.226,15.5,0.961

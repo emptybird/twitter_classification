@@ -1,0 +1,4 @@
+rule,brand_if_share_ge,human_if_share_le,coverage_pct,conf1_human_agree_pct,conf1_brand_agree_pct
+plain majority,0.5,0.5,97.2,91.7,54.6
+"majority, abstain 0.35-0.65",0.65,0.35,80.4,96.3,52.8
+lift >= 2 / <= 1/2 (chosen),0.525,0.131,65.1,89.7,82.4

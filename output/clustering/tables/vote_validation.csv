@@ -1,0 +1,7 @@
+label,confidence,voted,disagree,disagree_pct
+brand,<0.5,111,83,74.8
+brand,0.5-<1,1259,423,33.6
+brand,=1,2089,368,17.6
+human,<0.5,222,33,14.9
+human,0.5-<1,1413,201,14.2
+human,=1,6384,657,10.3

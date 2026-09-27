@@ -1,0 +1,5 @@
+cluster,log_fav_number,log_tweet_count,log_account_age_days,link_color_r,link_color_g,link_color_b,sidebar_is_default,has_description,tweet_has_url,tweet_has_hashtag
+1,0.477,0.027,0.173,-0.161,0.444,0.395,0.014,0.413,-0.74,-0.219
+2,0.369,0.228,0.389,1.153,-1.585,-1.577,-0.841,0.31,0.023,-0.044
+3,-1.084,-0.245,-0.937,-0.61,0.26,0.411,0.975,-1.793,-0.296,0.004
+4,-0.241,-0.044,0.105,-0.22,0.377,0.338,-0.064,0.418,1.34,0.37
