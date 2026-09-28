@@ -1,0 +1,5 @@
+method,k-means,SOM->complete,human/brand label,gender label
+k-means,1.0,0.422,0.0817,0.0537
+SOM->complete,0.422,1.0,0.0565,0.0154
+human/brand label,0.0817,0.0565,1.0,0.5418
+gender label,0.0537,0.0154,0.5418,1.0

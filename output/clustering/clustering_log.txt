@@ -1,0 +1,140 @@
+
+==========================================================================
+A. FEATURES - 10 structured columns, 3 views, z-scored
+==========================================================================
+             feature      view  weight_after_z    mean     sd
+      log_fav_number behaviour           0.577   5.404  3.350
+     log_tweet_count behaviour           0.577   8.946  2.122
+log_account_age_days behaviour           0.577   6.595  1.289
+        link_color_r    colour           0.500  58.172 86.705
+        link_color_g    colour           0.500 118.933 51.265
+        link_color_b    colour           0.500 152.334 64.336
+  sidebar_is_default    colour           0.500   0.455  0.498
+     has_description   profile           0.577   0.813  0.390
+       tweet_has_url   profile           0.577   0.354  0.478
+   tweet_has_hashtag   profile           0.577   0.193  0.395
+
+  accounts: 18,715
+
+==========================================================================
+B. K-MEANS - choosing k (k = 2..10, n_init = 10)
+==========================================================================
+  k= 2  WSS= 46,287.2  BSS/TSS=0.176  silhouette=0.175  smallest=41.4%  closest centroids=1.47  ARI vs label=0.080
+  k= 3  WSS= 39,676.0  BSS/TSS=0.293  silhouette=0.212  smallest=20.1%  closest centroids=1.57  ARI vs label=0.053
+  k= 4  WSS= 35,059.5  BSS/TSS=0.376  silhouette=0.211  smallest=17.9%  closest centroids=1.32  ARI vs label=0.082
+  k= 5  WSS= 31,786.1  BSS/TSS=0.434  silhouette=0.222  smallest= 8.5%  closest centroids=1.31  ARI vs label=0.074
+  k= 6  WSS= 28,973.8  BSS/TSS=0.484  silhouette=0.226  smallest= 7.0%  closest centroids=1.27  ARI vs label=0.066
+  k= 7  WSS= 26,936.7  BSS/TSS=0.520  silhouette=0.210  smallest= 5.6%  closest centroids=1.17  ARI vs label=0.035
+  k= 8  WSS= 25,632.9  BSS/TSS=0.543  silhouette=0.218  smallest= 5.5%  closest centroids=1.17  ARI vs label=0.035
+  k= 9  WSS= 24,384.2  BSS/TSS=0.566  silhouette=0.231  smallest= 5.0%  closest centroids=1.17  ARI vs label=0.042
+  k=10  WSS= 23,594.8  BSS/TSS=0.580  silhouette=0.222  smallest= 4.8%  closest centroids=1.01  ARI vs label=0.032
+
+  seed stability (ARI vs seed 42, seeds 1-4):
+  k=2:0.92  k=3:0.99  k=4:1.00  k=5:0.71  k=6:1.00  k=7:1.00  k=8:1.00  k=9:0.87  k=10:0.75
+
+  final k = 4; clusters numbered by brand share (C1 = most human)
+ cluster    n  pct_accounts  pct_human  pct_brand  pct_unknown  brand_share_conf1
+       1 7118          38.0       81.3       13.6          5.1              0.090
+       2 3641          19.5       72.8       22.8          4.4              0.215
+       3 3346          17.9       41.6       46.5         11.9              0.430
+       4 4610          24.6       53.0       44.5          2.5              0.464
+
+==========================================================================
+C. SELF-ORGANISING MAP - grid size (Lab 3 MiniSom)
+==========================================================================
+  10x10  QE=0.841  TE=0.014  empty= 6.0%  median hits=  158  train=9s
+  15x15  QE=0.720  TE=0.026  empty=12.9%  median hits=   66  train=12s
+  20x20  QE=0.635  TE=0.013  empty=12.0%  median hits=   38  train=17s
+  26x26  QE=0.588  TE=0.016  empty=12.1%  median hits=   22  train=24s
+  chosen: 20x20 - QE keeps falling with more neurons, but each neuron must hold enough labelled accounts for a vote (F)
+
+  final SOM 20x20: QE=0.635  TE=0.013  empty neurons=12.0%
+
+  brand-leaning neurons: 49 (3,786 accounts); human-leaning: 120 (8,380)
+  feature means, brand-leaning minus human-leaning, in SD units:
+             feature      view  mean_brand_neurons  mean_human_neurons  diff_in_sd
+      log_fav_number behaviour               1.445               7.527      -1.815
+       tweet_has_url   profile               0.615               0.045       1.194
+     has_description   profile               0.628               0.885      -0.661
+   tweet_has_hashtag   profile               0.302               0.048       0.644
+log_account_age_days behaviour               6.311               6.931      -0.481
+  sidebar_is_default    colour               0.596               0.375       0.444
+        link_color_r    colour              38.567              73.541      -0.403
+     log_tweet_count behaviour               9.677               9.144       0.251
+        link_color_b    colour             152.797             150.180       0.041
+        link_color_g    colour             116.670             118.098      -0.028
+
+==========================================================================
+D. HIERARCHICAL - linkage on the SOM prototypes, cut at k=4
+==========================================================================
+  single    inversions=0   sizes=12659/3454/2483/119       ARI vs k-means=0.183
+  complete  inversions=0   sizes=12106/3160/2750/699       ARI vs k-means=0.422
+  average   inversions=0   sizes=11775/3458/2512/970       ARI vs k-means=0.212
+  centroid  inversions=17  sizes=11653/3163/2911/988       ARI vs k-means=0.238
+
+  SOM -> complete linkage, k = 4:
+ cluster     n  pct_accounts  pct_human  pct_brand  pct_unknown  brand_share_conf1
+       1  3160          16.9       71.1       24.4          4.5              0.232
+       2 12106          64.7       70.2       25.6          4.2              0.240
+       3   699           3.7       55.5       34.9          9.6              0.363
+       4  2750          14.7       41.2       47.3         11.5              0.421
+
+  control - direct complete linkage on 2,999 accounts: sizes=2493/367/81/58  ARI vs k-means=0.011  ARI vs SOM->complete=0.052
+  -> on raw accounts the farthest-pair rule isolates a few far-out accounts (1.9% in the smallest cluster, 83.1% in the largest); prototypes average them away
+
+==========================================================================
+E. AGREEMENT (adjusted Rand index) AND SENSITIVITY
+==========================================================================
+                   k-means  SOM->complete  human/brand label  gender label
+k-means              1.000          0.422              0.082         0.054
+SOM->complete        0.422          1.000              0.057         0.015
+human/brand label    0.082          0.057              1.000         0.542
+gender label         0.054          0.015              0.542         1.000
+  views not equalised (plain z-score)    n=18,715  silhouette=0.212  smallest=16.1%  ARI vs main=0.442
+  raw counts instead of log1p            n=18,715  silhouette=0.248  smallest=14.6%  ARI vs main=0.485
+  '0' colour accounts removed            n=14,822  silhouette=0.226  smallest=15.5%  ARI vs main=0.961
+
+==========================================================================
+F. CLUSTER VOTE - SOM neuron, leave-one-out, lift rule
+==========================================================================
+  overall brand share (confidence-1 labels) = 0.262
+                       rule  brand_if_share_ge  human_if_share_le  coverage_pct  conf1_human_agree_pct  conf1_brand_agree_pct
+             plain majority              0.500              0.500          97.2                   91.7                   54.6
+majority, abstain 0.35-0.65              0.650              0.350          80.4                   96.3                   52.8
+lift >= 2 / <= 1/2 (chosen)              0.525              0.131          65.1                   89.7                   82.4
+
+  validation against annotator confidence:
+  human-labelled: chi-square(disagree x confidence bin) = 21.4, dof=2, p=2.3e-05
+  brand-labelled: chi-square(disagree x confidence bin) = 255.1, dof=2, p=4e-56
+label confidence  voted  disagree  disagree_pct
+brand       <0.5    111        83          74.8
+brand     0.5-<1   1259       423          33.6
+brand         =1   2089       368          17.6
+human       <0.5    222        33          14.9
+human     0.5-<1   1413       201          14.2
+human         =1   6384       657          10.3
+
+  coverage: 65.1% of accounts receive a vote
+  confidence-1 accounts, leave-one-out: vote agrees with label for 87.9% of 8,473 voted
+  accounts labelled both human and brand across rows: 72, of which the vote disagrees with the kept label for 20
+
+        suggestion  confidence_eq_1  confidence_lt_1
+amend brand->human              368              506
+amend human->brand              657              234
+first label: brand               30              252
+first label: human               53              374
+              keep             7448             2265
+           no vote             4685             1843
+
+==========================================================================
+FIGURES
+==========================================================================
+  figures/cl1_kmeans_choose_k.png
+  figures/cl2_kmeans_profiles.png
+  figures/cl3_pca_map.png
+  figures/cl4_som_maps.png
+  figures/cl5_hierarchical.png
+  figures/cl6_agreement.png
+  figures/cl7_cluster_vote.png
+
+  total run time 143s

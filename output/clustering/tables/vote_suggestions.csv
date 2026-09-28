@@ -1,0 +1,7 @@
+suggestion,confidence_eq_1,confidence_lt_1
+amend brand->human,368,506
+amend human->brand,657,234
+first label: brand,30,252
+first label: human,53,374
+keep,7448,2265
+no vote,4685,1843

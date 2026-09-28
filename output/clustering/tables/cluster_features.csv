@@ -1,0 +1,11 @@
+feature,view,weight_after_z,mean,sd,why
+log_fav_number,behaviour,0.577,5.404,3.35,log1p favourites; brands favourite far less (H1)
+log_tweet_count,behaviour,0.577,8.946,2.122,log1p tweets posted; broadcast volume (H1)
+log_account_age_days,behaviour,0.577,6.595,1.289,log1p days since creation; age of the account
+link_color_r,colour,0.5,58.172,86.705,"link colour red channel, 0-255 (H2)"
+link_color_g,colour,0.5,118.933,51.265,"link colour green channel, 0-255 (H2)"
+link_color_b,colour,0.5,152.334,64.336,"link colour blue channel, 0-255 (H2)"
+sidebar_is_default,colour,0.5,0.455,0.498,1 when sidebar is the default C0DEED (H2); immune to the '0' sidebar defect
+has_description,profile,0.577,0.813,0.39,1 when the profile has a description (completeness)
+tweet_has_url,profile,0.577,0.354,0.478,1 when the sampled tweet carries a link
+tweet_has_hashtag,profile,0.577,0.193,0.395,1 when the sampled tweet carries a hashtag

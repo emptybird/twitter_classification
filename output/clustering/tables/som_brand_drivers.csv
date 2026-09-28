@@ -1,0 +1,11 @@
+feature,view,mean_brand_neurons,mean_human_neurons,diff_in_sd
+log_fav_number,behaviour,1.445,7.527,-1.815
+tweet_has_url,profile,0.615,0.045,1.194
+has_description,profile,0.628,0.885,-0.661
+tweet_has_hashtag,profile,0.302,0.048,0.644
+log_account_age_days,behaviour,6.311,6.931,-0.481
+sidebar_is_default,colour,0.596,0.375,0.444
+link_color_r,colour,38.567,73.541,-0.403
+log_tweet_count,behaviour,9.677,9.144,0.251
+link_color_b,colour,152.797,150.18,0.041
+link_color_g,colour,116.67,118.098,-0.028
